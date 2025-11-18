@@ -1,267 +1,52 @@
 [
-  {
-    "question": "What is the largest planet in our solar system?",
-    "options": ["Jupiter", "Earth", "Mars", "Saturn"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "Which planet is known as the “RED PLANET”?",
-    "options": ["Neptune", "Mars", "Mercury", "Pluto"],
-    "answer": "Mars"
-  },
-  {
-    "question": "What is in the center of our solar system?",
-    "options": ["The moon", "The galaxy", "The stars", "The sun"],
-    "answer": "The sun"
-  },
-  {
-    "question": "Which planet is closest to the sun?",
-    "options": ["Pluto", "planet", "Mercury", "Venus"],
-    "answer": "Mercury"
-  },
-  {
-    "question": "What is the largest moon in our solar system?",
-    "options": ["Ganymede", "orbiting moon", "Orbiting galaxy", "Orbiting planet"],
-    "answer": "Ganymede"
-  },
-  {
-    "question": "How many planets are in the solar system?",
-    "options": ["7", "9", "8", "10"],
-    "answer": "8"
-  },
-  {
-    "question": "Which planet has the most moons?",
-    "options": ["Jupiter", "Mars", "Venus", "Earth"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "Which planet is known as the hottest?",
-    "options": ["Mercury", "Venus", "Jupiter", "Mars"],
-    "answer": "Venus"
-  },
-  {
-    "question": "What is the process by which planets formed in our solar system?",
-    "options": ["Accretion", "acceleration", "momentum", "assimilation"],
-    "answer": "Accretion"
-  },
-  {
-    "question": "What is the farthest planet from the sun?",
-    "options": ["Neptune", "sun", "Venus", "Saturn"],
-    "answer": "Neptune"
-  },
-  {
-    "question": "The basic colours are called",
-    "options": ["secondary colours", "tertiary colours", "complimentary colours", "primary colours"],
-    "answer": "primary colours"
-  },
-  {
-    "question": "What colour is created by mixing blue and purple?",
-    "options": ["blue-purple", "yellow-purple", "green-purple", "purple-red"],
-    "answer": "blue-purple"
-  },
-  {
-    "question": "What is the term for the colour wheel’s arrangement of primary, secondary and tertiary colours?",
-    "options": ["colour harmony", "colour decoration", "colour arrangement", "colour list"],
-    "answer": "colour harmony"
-  },
-  {
-    "question": "What colour is created by mixing red and blue?",
-    "options": ["orange", "purple", "indigo", "violet"],
-    "answer": "purple"
-  },
-  {
-    "question": "What are the three primary colours?",
-    "options": ["red, blue and yellow", "blue, purple and pink", "orange, yellow and red", "indigo, violet and red"],
-    "answer": "red, blue and yellow"
-  },
-  {
-    "question": "Which ocean is the largest of the five major oceans?",
-    "options": ["Pacific Ocean", "Arctic Ocean", "Indian Ocean", "Southern Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "Which ocean is the smallest?",
-    "options": ["Southern Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
-    "answer": "Arctic Ocean"
-  },
-  {
-    "question": "Which ocean surrounds Antarctica?",
-    "options": ["Indian Ocean", "Pacific Ocean", "Southern Ocean", "Asian Ocean"],
-    "answer": "Southern Ocean"
-  },
-  {
-    "question": "Which ocean is home to the Mariana Trench?",
-    "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "North Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "Which ocean calls to the Gulf Stream?",
-    "options": ["Egypt Ocean", "North Sea", "Red Sea", "Atlantic Ocean"],
-    "answer": "Atlantic Ocean"
-  },
-  {
-    "question": "Where is the North Sea located?",
-    "options": ["Northern Europe", "Southern Europe", "Eastern Europe", "Western Europe"],
-    "answer": "Northern Europe"
-  },
-  {
-    "question": "What is the economic importance of the North Sea?",
-    "options": [
-      "Sources of oil, gas and fish, also supports busy shipping lanes and tourism.",
-      "Sources of animal materials supply and exploration.",
-      "Sources of sufficient road network and telecommunication services.",
-      "Sources of natural resources exploration."
-    ],
-    "answer": "Sources of oil, gas and fish, also supports busy shipping lanes and tourism."
-  },
-  {
-    "question": "How can one maintain motivation for regular exercise?",
-    "options": ["Setting dissatisfaction", "Setting distraction", "Setting achievement goals", "Setting indecision plan"],
-    "answer": "Setting achievement goals"
-  },
-  {
-    "question": "What can improve flexibility?",
-    "options": ["Irregular stretching of the body", "Regular stretching of the body", "Imbalance sleep", "Conditional stimuli"],
-    "answer": "Regular stretching of the body"
-  },
-  {
-    "question": "What is the importance of hydration in physical fitness?",
-    "options": ["Regulates body temperature", "Stability of eating exercise", "Imbalance memory", "Regaining strength"],
-    "answer": "Regaining strength"
-  },
-  {
-    "question": "One of these is NOT a type of relay race.",
-    "options": ["4x500 relay", "4x400 relay", "4x100 relay", "medley relay"],
-    "answer": "4x500 relay"
-  },
-  {
-    "question": "A hollow cylinder of wood or plastic used in relay race is known as",
-    "options": ["staff", "baton", "mutton", "pole"],
-    "answer": "baton"
-  },
-  {
-    "question": "The following are techniques in relay race except",
-    "options": ["baton grip", "take-off", "Sliding off", "run-up"],
-    "answer": "Sliding off"
-  },
-  {
-    "question": "The objective of high jump is to try to",
-    "options": ["jump as low as possible", "jump as high as possible", "jump as long as possible", "jump as distance as possible"],
-    "answer": "jump as high as possible"
-  },
-  {
-    "question": "All of these are styles in high jump except",
-    "options": ["overhead roll", "western roll", "eastern roll", "the straddle"],
-    "answer": "overhead roll"
-  },
-  {
-    "question": "A set of physical activities that allows the body to respond or adapt to the need and stress of physical effort is referred to as",
-    "options": ["body conditioning", "physical fitness", "component alignment", "readiness exercise"],
-    "answer": "physical fitness"
-  },
-  {
-    "question": "The ability to stop, start, and change directions quickly indicates",
-    "options": ["power", "balance", "beam walk", "agility"],
-    "answer": "agility"
-  },
-  {
-    "question": "The process of preparing the body with exercises in readiness for sport activities that require much effort is known as",
-    "options": ["power", "agility", "body conditioning", "physical fit"],
-    "answer": "body conditioning"
-  },
-  {
-    "question": "Measurement of power include",
-    "options": [
-      "sergeant jump and standing board jump",
-      "agility and power",
-      "leaps vertically and beam walk",
-      "beam walk and standing order"
-    ],
-    "answer": "sergeant jump and standing board jump"
-  },
-  {
-    "question": "One of the benefits of agility, power, flexibility and balance is",
-    "options": ["reduce risk", "improves performance", "develop balance", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "question": "One of these best describes word processing.",
-    "options": [
-      "booting, shaping, storing and transferring",
-      "typing, editing, formatting, storing and printing",
-      "repairing, reshaping, editing and storing",
-      "formatting, teaching, elaborating and printing"
-    ],
-    "answer": "typing, editing, formatting, storing and printing"
-  },
-  {
-    "question": "The sun can be described as",
-    "options": ["giant galaxy", "giant moon", "giant lightening", "giant star"],
-    "answer": "giant star"
-  },
-  {
-    "question": "The world we live in is known as",
-    "options": ["earth", "sphere", "atmosphere", "biosphere"],
-    "answer": "earth"
-  },
-  {
-    "question": "The part of the earth where soil, rocks, plants and animals are found is known as",
-    "options": ["hydrosphere", "lithosphere", "atmosphere", "earth’s surface"],
-    "answer": "lithosphere"
-  },
-  {
-    "question": "The earth turns around its axis in a",
-    "options": ["circular form", "triangular form", "prism form", "rectangular form"],
-    "answer": "circular form"
-  },
-  {
-    "question": "Rotation of the earth brings about",
-    "options": ["day and night", "hotness and dryness", "evolutional density", "ecology clarification"],
-    "answer": "day and night"
-  },
-  {
-    "question": "All of the following is the uses of word processing EXCEPT",
-    "options": ["text formatting", "Text editing", "word enlightenment", "printing"],
-    "answer": "word enlightenment"
-  },
-  {
-    "question": "Word processing is easier and",
-    "options": ["faster", "slowest", "outlook", "format"],
-    "answer": "faster"
-  },
-  {
-    "question": "One example of word processing software is",
-    "options": ["Google Docs", "AbiWord", "Microsoft Word", "All of the above"],
-    "answer": "All of the above"
-  },
-  {
-    "question": "The most popular word processing application is",
-    "options": ["Pages", "OpenOffice", "WordPerfect", "Microsoft Word"],
-    "answer": "Microsoft Word"
-  },
-  {
-    "question": "The Lunar eclipse is also known as",
-    "options": ["satellite", "eclipse of the moon", "effects rotation", "galaxy"],
-    "answer": "eclipse of the moon"
-  },
-  {
-    "question": "Galaxies are many stars held together by the force of gravity.",
-    "options": ["natural bodies", "maybe", "true", "uncertain"],
-    "answer": "true"
-  },
-  {
-    "question": "The biggest planet of the solar system is the",
-    "options": ["Jupiter", "Mercury", "Neptune", "Venus"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "The round object that gives light to the earth is called",
-    "options": ["sun", "moon", "lightening", "thundering"],
-    "answer": "sun"
-  },
-  {
-    "question": "The moon is a large round object that travels",
-    "options": ["around the earth", "round the hemisphere", "around the ocean", "around space"],
-    "answer": "around the earth"
-  }
+  {"number":1,"question":"_______ bụ ụzọ mmadụ na ibe ya si enwe mmekọrịta.","options":["Abụ","Asụsụ","Ejije","Akụkọ"],"answer":"Asụsụ"},
+  {"number":2,"question":"Ndị Igbo na-asụ ________","options":["Awụsa","French","Yoruba","Igbo"],"answer":"Igbo"},
+  {"number":3,"question":"Ndị Igbo bụ ndị bi n' _______ Naịjirịa.","options":["ọwụwa anyanwụ","elu ugwu","odịda anyanwụ","ndịda anyanwu"],"answer":"ọwụwa anyanwụ"},
+  {"number":4,"question":"Mkpụrụedemede Igbo dị _________","options":["iri na ato","iri isii na ato","iri atọ na isii","iri abụo na isii _"],"answer":"iri atọ na isii"},
+  {"number":5,"question":"E kere Mkpụrụedemede Igbo ụzọ ________","options":["abụọ","ise","iri na abuo","iri"],"answer":"abụọ"},
+  {"number":6,"question":"Ụdaume Igbo dị ________","options":["ise","asatọ","abụọ","iri"],"answer":"asatọ"},
+  {"number":7,"question":"_______ bụ akara edemede na-egosi na \"NA\" na-arụ ọrụ dika Mbuuzo.","options":["Rịkọm elu","kpọmrikọm","kpọm","akara ajụjụ"],"answer":"Rịkọm elu"},
+  {"number":8,"question":"Akara edemede na-egosi na ahịrịokwu abiala na njedebe bụ_________","options":["rịkọm","kpọm","akara uhie","rịkọm elu"],"answer":"kpọm"},
+  {"number":9,"question":"Nke edeziri nke ọma na ndị a bụ _________","options":["A B CH D E","A B CH D F","A B CH D G","A GB D E."],"answer":"A B CH D E"},
+  {"number":10,"question":"Otu n'ime ndị a abughi steeti ndị Igbo.","options":["Imo","Enugu","Kọgi","Anambra"],"answer":"Kọgi"},
+  {"number":11,"question":"Steeti ole bụ Steeti ndị Igbo kpọmkwem?","options":["Iri","asaa","iri atọ","ise"],"answer":"ise"},
+  {"number":12,"question":"________ bụ otu n'ime njirimara asụsụ.","options":["O nweghị usoro","Ọ na-egbu mmadụ","A na-amụ ya amụ","Anaghị enwe ya enwe"],"answer":"A na-amụ ya amụ"},
+  {"number":13,"question":"E kere Mgbochiume ụzọ _______","options":["asatọ","anọ","ise","abụọ"],"answer":"abụọ"},
+  {"number":14,"question":"_________ na-eme ka ọrụ gaa ọsịsọ.","options":["nrikọrịta ọrụ","ịghọ aghụghọ","ịgba ọsọ","ịgba nga"],"answer":"nrikọrịta ọrụ"},
+  {"number":15,"question":"Otu n'ime ndị a abụghị ụdaume.","options":["i","d","e","u"],"answer":"d"},
+  {"number":16,"question":"Akara rịkọm pụtara _______","options":["?","–",",","!"],"answer":","},
+  {"number":17,"question":"Ole ka ụdaume mfe dị?","options":["4","3","7","2"],"answer":"4"},
+  {"number":18,"question":"________ bụ ihe e ji mara ndi Igbo.","options":["ịlụ ọgụ","ejiji","arịrịọ","igwọ ọgwụ"],"answer":"ejiji"},
+  {"number":19,"question":"Asụsụ bụ ihe e ji enwe ________","options":["ụgbọala","eluigwe","ego","mmekọrịta"],"answer":"mmekọrịta"},
+  {"number":20,"question":"Asụsụ so na ihe e ji amata ebe _______ si.","options":["ụlọ","ọkụkọ","mmadụ","ahịa"],"answer":"mmadụ"},
+  {"number":21,"question":"Ụzọ ọzọ mmadụ nwere ike iji gosi mbunuuche ya bụ","options":["izu ohi","ifufe isi","iri nri","irahu ụra"],"answer":"ifufe isi"},
+  {"number":22,"question":"Kedụ nke bụ njirimara asụsụ?","options":["Ịgba nkịtị","iti mkpu","ịkụ aka","ito eto"],"answer":"ito eto"},
+  {"number":23,"question":"________ bụ echiche mmadụ cheputara ma were asụsụ nka kọwapụta ya.","options":["Asụsụ","agụmagụ","nkejiasusu","akara edemede"],"answer":"agụmagụ"},
+  {"number":24,"question":"E kere agụmagụ ụzọ_______","options":["3","4","10","2"],"answer":"2"},
+  {"number":25,"question":"Mgbochiume Igbo dị________ n'ọnụ ọgụgụ.","options":["19","28","36","8"],"answer":"28"},
+  {"number":26,"question":"Kedụ nke na-abughí Mgbochiume na ndị a.","options":["B","D","R","E"],"answer":"E"},
+  {"number":27,"question":"Mgbochiume ndị gbara mkpị dị ole n'ọnụ ọgụgụ?","options":["Itolu","ise","asatọ","iri"],"answer":"Itolu"},
+  {"number":28,"question":"Nrukọrịta ọrụ na-eme ka ọrụ dị ________","options":["ike","mfe","arụ","nnukwu"],"answer":"mfe"},
+  {"number":29,"question":"Agụmagụ ọdịnaala nwere ngalaba ________","options":["5","4","3","2"],"answer":"3"},
+  {"number":30,"question":"Otu n'ime ndị a abụghị ngalaba agụmagụ ọdịnaala.","options":["Agwugwa","ejije","akụkọ","abụ"],"answer":"Agwugwa"},
+  {"number":31,"question":"Kedụ nke na-esoghị n'akaraedemede?","options":["Kpọm","rịkọm","ntuhi","kpọmrikọm"],"answer":"ntuhi"},
+  {"number":32,"question":"Akara uhie pụtara _________","options":["–",".","?","!"],"answer":"–"},
+  {"number":33,"question":"E kere ụdaume uzọ________","options":["ise","abụọ","atọ","asatọ"],"answer":"abụọ"},
+  {"number":34,"question":"Mgbochiume nge dị _________","options":["19","29","9","39"],"answer":"19"},
+  {"number":35,"question":"Dialect pụtara ________ n'asụsụ Igbo","options":["olu onye","Olundi","izugbe","olu ike"],"answer":"Olundi"},
+  {"number":36,"question":"___________ bụ asụsụ jikọtara Igbo niile ọnụ.","options":["Olundi","Yoruba","Igbo izugbe","olu onye"],"answer":"Igbo izugbe"},
+  {"number":37,"question":"______________ bụ asụsụ e jiri mara otu mpaghara obodo.","options":["Izugbe","olu onye","Tivi","Olundi"],"answer":"Olundi"},
+  {"number":38,"question":"_________ bụ agụmagụ edeturu edetu n'akwụkwọ.","options":["Agụmagụ ọdịnaala","agụmagụ egwu","agụmagụ ugbua","agụmagụ ochie"],"answer":"agụmagụ ugbua"},
+  {"number":39,"question":"Otu na ndị a abụghị aka ọrụ ndị Igbo","options":["ọrụ ugbo","igbu azụ","ikuzi nkuzi","ịtọrọ mmadụ"],"answer":"ịtọrọ mmadụ"},
+  {"number":40,"question":"Ole ka ụdaume mfe dị?","options":["4","3","5","2"],"answer":"4"},
+  {"number":41,"question":"Nke bụ nri ndị Igbo na ndị a bụ","options":["abacha","amala","tuwo","ekpan"],"answer":"abacha"},
+  {"number":42,"question":"Ndị Igbo na-akpọpụta nri ndị a niile ewepu","options":["ji","ede","tuwo","ọka"],"answer":"tuwo"},
+  {"number":43,"question":"Myiriudaume Igbo dị _______ n'ọnụ ọgụgụ.","options":["Abụọ","atọ","anọ","ise"],"answer":"Abụọ"},
+  {"number":44,"question":"Mkpụrụedemede Igbo ndị gbara abụọ abụọ ka ana-akpọ _________","options":["Mgbochiume nge","ụdaume","myiriudaume","Mgbochiume mkpị"],"answer":"Mgbochiume mkpị"},
+  {"number":45,"question":"Agụmagụ nke na-esi n'aka fere n'aka bụ _________","options":["agụmagụ ugbua","agụmagụ ederede","agụmagụ ọdịnaala","ha niile"],"answer":"agụmagụ ọdịnaala"},
+  {"number":46,"question":"(!) Akara ekpudoro ihe bụ akara _________","options":["ajụjụ","rịkọm","uhie","akara mkpu"],"answer":"akara mkpu"},
+  {"number":47,"question":"E nwere asụsụ ________ gbara ọkpụrụkpụ na Naịjirịa.","options":["Atọ","ise","anọ","abụọ"],"answer":"Atọ"},
+  {"number":48,"question":"Ụdaarọ na ndị a bụ","options":["e b o i","a e o i","e i o u","a e I u"],"answer":"e i o u"},
+  {"number":49,"question":"Otu n'ime ndị a abụghị Mgbochiume","options":["b","f","h","o"],"answer":"o"},
+  {"number":50,"question":"Aha ọzọ e nwere ike ịkpọ agụmagụ ọdịnaala bụ _______","options":["agụmagụ ugbua","agụmagụ ọnụ","agụmagụ ederede","agụmagụ egwu"],"answer":"agụmagụ ọnụ"}
 ]
