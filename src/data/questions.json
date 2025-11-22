@@ -1,52 +1,429 @@
 [
-  {"number":1,"question":"_______ bụ ụzọ mmadụ na ibe ya si enwe mmekọrịta.","options":["Abụ","Asụsụ","Ejije","Akụkọ"],"answer":"Asụsụ"},
-  {"number":2,"question":"Ndị Igbo na-asụ ________","options":["Awụsa","French","Yoruba","Igbo"],"answer":"Igbo"},
-  {"number":3,"question":"Ndị Igbo bụ ndị bi n' _______ Naịjirịa.","options":["ọwụwa anyanwụ","elu ugwu","odịda anyanwụ","ndịda anyanwu"],"answer":"ọwụwa anyanwụ"},
-  {"number":4,"question":"Mkpụrụedemede Igbo dị _________","options":["iri na ato","iri isii na ato","iri atọ na isii","iri abụo na isii _"],"answer":"iri atọ na isii"},
-  {"number":5,"question":"E kere Mkpụrụedemede Igbo ụzọ ________","options":["abụọ","ise","iri na abuo","iri"],"answer":"abụọ"},
-  {"number":6,"question":"Ụdaume Igbo dị ________","options":["ise","asatọ","abụọ","iri"],"answer":"asatọ"},
-  {"number":7,"question":"_______ bụ akara edemede na-egosi na \"NA\" na-arụ ọrụ dika Mbuuzo.","options":["Rịkọm elu","kpọmrikọm","kpọm","akara ajụjụ"],"answer":"Rịkọm elu"},
-  {"number":8,"question":"Akara edemede na-egosi na ahịrịokwu abiala na njedebe bụ_________","options":["rịkọm","kpọm","akara uhie","rịkọm elu"],"answer":"kpọm"},
-  {"number":9,"question":"Nke edeziri nke ọma na ndị a bụ _________","options":["A B CH D E","A B CH D F","A B CH D G","A GB D E."],"answer":"A B CH D E"},
-  {"number":10,"question":"Otu n'ime ndị a abughi steeti ndị Igbo.","options":["Imo","Enugu","Kọgi","Anambra"],"answer":"Kọgi"},
-  {"number":11,"question":"Steeti ole bụ Steeti ndị Igbo kpọmkwem?","options":["Iri","asaa","iri atọ","ise"],"answer":"ise"},
-  {"number":12,"question":"________ bụ otu n'ime njirimara asụsụ.","options":["O nweghị usoro","Ọ na-egbu mmadụ","A na-amụ ya amụ","Anaghị enwe ya enwe"],"answer":"A na-amụ ya amụ"},
-  {"number":13,"question":"E kere Mgbochiume ụzọ _______","options":["asatọ","anọ","ise","abụọ"],"answer":"abụọ"},
-  {"number":14,"question":"_________ na-eme ka ọrụ gaa ọsịsọ.","options":["nrikọrịta ọrụ","ịghọ aghụghọ","ịgba ọsọ","ịgba nga"],"answer":"nrikọrịta ọrụ"},
-  {"number":15,"question":"Otu n'ime ndị a abụghị ụdaume.","options":["i","d","e","u"],"answer":"d"},
-  {"number":16,"question":"Akara rịkọm pụtara _______","options":["?","–",",","!"],"answer":","},
-  {"number":17,"question":"Ole ka ụdaume mfe dị?","options":["4","3","7","2"],"answer":"4"},
-  {"number":18,"question":"________ bụ ihe e ji mara ndi Igbo.","options":["ịlụ ọgụ","ejiji","arịrịọ","igwọ ọgwụ"],"answer":"ejiji"},
-  {"number":19,"question":"Asụsụ bụ ihe e ji enwe ________","options":["ụgbọala","eluigwe","ego","mmekọrịta"],"answer":"mmekọrịta"},
-  {"number":20,"question":"Asụsụ so na ihe e ji amata ebe _______ si.","options":["ụlọ","ọkụkọ","mmadụ","ahịa"],"answer":"mmadụ"},
-  {"number":21,"question":"Ụzọ ọzọ mmadụ nwere ike iji gosi mbunuuche ya bụ","options":["izu ohi","ifufe isi","iri nri","irahu ụra"],"answer":"ifufe isi"},
-  {"number":22,"question":"Kedụ nke bụ njirimara asụsụ?","options":["Ịgba nkịtị","iti mkpu","ịkụ aka","ito eto"],"answer":"ito eto"},
-  {"number":23,"question":"________ bụ echiche mmadụ cheputara ma were asụsụ nka kọwapụta ya.","options":["Asụsụ","agụmagụ","nkejiasusu","akara edemede"],"answer":"agụmagụ"},
-  {"number":24,"question":"E kere agụmagụ ụzọ_______","options":["3","4","10","2"],"answer":"2"},
-  {"number":25,"question":"Mgbochiume Igbo dị________ n'ọnụ ọgụgụ.","options":["19","28","36","8"],"answer":"28"},
-  {"number":26,"question":"Kedụ nke na-abughí Mgbochiume na ndị a.","options":["B","D","R","E"],"answer":"E"},
-  {"number":27,"question":"Mgbochiume ndị gbara mkpị dị ole n'ọnụ ọgụgụ?","options":["Itolu","ise","asatọ","iri"],"answer":"Itolu"},
-  {"number":28,"question":"Nrukọrịta ọrụ na-eme ka ọrụ dị ________","options":["ike","mfe","arụ","nnukwu"],"answer":"mfe"},
-  {"number":29,"question":"Agụmagụ ọdịnaala nwere ngalaba ________","options":["5","4","3","2"],"answer":"3"},
-  {"number":30,"question":"Otu n'ime ndị a abụghị ngalaba agụmagụ ọdịnaala.","options":["Agwugwa","ejije","akụkọ","abụ"],"answer":"Agwugwa"},
-  {"number":31,"question":"Kedụ nke na-esoghị n'akaraedemede?","options":["Kpọm","rịkọm","ntuhi","kpọmrikọm"],"answer":"ntuhi"},
-  {"number":32,"question":"Akara uhie pụtara _________","options":["–",".","?","!"],"answer":"–"},
-  {"number":33,"question":"E kere ụdaume uzọ________","options":["ise","abụọ","atọ","asatọ"],"answer":"abụọ"},
-  {"number":34,"question":"Mgbochiume nge dị _________","options":["19","29","9","39"],"answer":"19"},
-  {"number":35,"question":"Dialect pụtara ________ n'asụsụ Igbo","options":["olu onye","Olundi","izugbe","olu ike"],"answer":"Olundi"},
-  {"number":36,"question":"___________ bụ asụsụ jikọtara Igbo niile ọnụ.","options":["Olundi","Yoruba","Igbo izugbe","olu onye"],"answer":"Igbo izugbe"},
-  {"number":37,"question":"______________ bụ asụsụ e jiri mara otu mpaghara obodo.","options":["Izugbe","olu onye","Tivi","Olundi"],"answer":"Olundi"},
-  {"number":38,"question":"_________ bụ agụmagụ edeturu edetu n'akwụkwọ.","options":["Agụmagụ ọdịnaala","agụmagụ egwu","agụmagụ ugbua","agụmagụ ochie"],"answer":"agụmagụ ugbua"},
-  {"number":39,"question":"Otu na ndị a abụghị aka ọrụ ndị Igbo","options":["ọrụ ugbo","igbu azụ","ikuzi nkuzi","ịtọrọ mmadụ"],"answer":"ịtọrọ mmadụ"},
-  {"number":40,"question":"Ole ka ụdaume mfe dị?","options":["4","3","5","2"],"answer":"4"},
-  {"number":41,"question":"Nke bụ nri ndị Igbo na ndị a bụ","options":["abacha","amala","tuwo","ekpan"],"answer":"abacha"},
-  {"number":42,"question":"Ndị Igbo na-akpọpụta nri ndị a niile ewepu","options":["ji","ede","tuwo","ọka"],"answer":"tuwo"},
-  {"number":43,"question":"Myiriudaume Igbo dị _______ n'ọnụ ọgụgụ.","options":["Abụọ","atọ","anọ","ise"],"answer":"Abụọ"},
-  {"number":44,"question":"Mkpụrụedemede Igbo ndị gbara abụọ abụọ ka ana-akpọ _________","options":["Mgbochiume nge","ụdaume","myiriudaume","Mgbochiume mkpị"],"answer":"Mgbochiume mkpị"},
-  {"number":45,"question":"Agụmagụ nke na-esi n'aka fere n'aka bụ _________","options":["agụmagụ ugbua","agụmagụ ederede","agụmagụ ọdịnaala","ha niile"],"answer":"agụmagụ ọdịnaala"},
-  {"number":46,"question":"(!) Akara ekpudoro ihe bụ akara _________","options":["ajụjụ","rịkọm","uhie","akara mkpu"],"answer":"akara mkpu"},
-  {"number":47,"question":"E nwere asụsụ ________ gbara ọkpụrụkpụ na Naịjirịa.","options":["Atọ","ise","anọ","abụọ"],"answer":"Atọ"},
-  {"number":48,"question":"Ụdaarọ na ndị a bụ","options":["e b o i","a e o i","e i o u","a e I u"],"answer":"e i o u"},
-  {"number":49,"question":"Otu n'ime ndị a abụghị Mgbochiume","options":["b","f","h","o"],"answer":"o"},
-  {"number":50,"question":"Aha ọzọ e nwere ike ịkpọ agụmagụ ọdịnaala bụ _______","options":["agụmagụ ugbua","agụmagụ ọnụ","agụmagụ ederede","agụmagụ egwu"],"answer":"agụmagụ ọnụ"}
+  {
+  "instruction": "From the words lettered A to E, choose the word or group of words that best completes each of the following sentences.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "The governor ordered that the work done by any contractor should be properly _____ so as to know the correct amount to pay.",
+      "options": ["processed", "investigated", "accounted", "assessed", "valued"],
+      "answer": "assessed"
+    },
+    {
+      "number": 2,
+      "question": "The new teacher tried to ______ discipline among the students.",
+      "options": ["instigate", "inculcate", "inspect", "introduce", "instruct"],
+      "answer": "inculcate"
+    },
+    {
+      "number": 3,
+      "question": "The chairman could not attend the meeting because he was ______ engaged elsewhere.",
+      "options": ["fully", "happily", "tightly", "busily", "heavily"],
+      "answer": "busily"
+    },
+    {
+      "number": 4,
+      "question": "We were asked to submit our forms before the deadline, but many students did so ______.",
+      "options": ["occasionally", "subsequently", "repeatedly", "belatedly", "hurriedly"],
+      "answer": "belatedly"
+    },
+    {
+      "number": 5,
+      "question": "The principal urged the prefects to ______ the younger students in their duties.",
+      "options": ["guide", "lead", "supervise", "direct", "influence"],
+      "answer": "supervise"
+    },
+    {
+      "number": 6,
+      "question": "The players were applauded for their ______ performance at the final match.",
+      "options": ["spirited", "idle", "reckless", "hesitant", "dismal"],
+      "answer": "spirited"
+    },
+    {
+      "number": 7,
+      "question": "Many students find it difficult to pay attention because they are easily ______.",
+      "options": ["disturbed", "distracted", "distressed", "diverted", "dismayed"],
+      "answer": "distracted"
+    },
+    {
+      "number": 8,
+      "question": "The journalist was warned not to ______ any false information to the public.",
+      "options": ["proclaim", "announce", "broadcast", "disseminate", "spread"],
+      "answer": "disseminate"
+    },
+    {
+      "number": 9,
+      "question": "The doctor advised him to desist from smoking to ______ his health.",
+      "options": ["maintain", "restore", "preserve", "protect", "improve"],
+      "answer": "improve"
+    },
+    {
+      "number": 10,
+      "question": "The police officer promised to ______ the case without fear or favour.",
+      "options": ["judge", "handle", "investigate", "examine", "assess"],
+      "answer": "investigate"
+    },
+    {
+      "number": 11,
+      "question": "The workers were angry because their salaries had been ______ for three months.",
+      "options": ["suspended", "stopped", "withheld", "delayed", "denied"],
+      "answer": "withheld"
+    },
+    {
+      "number": 12,
+      "question": "It is wrong to make promises that you cannot ______.",
+      "options": ["keep", "fulfil", "maintain", "obey", "honour"],
+      "answer": "obey"
+    },
+    {
+      "number": 13,
+      "question": "The examiners praised the candidate for writing a very ______ essay.",
+      "options": ["lengthy", "concise", "elaborate", "ambiguous", "technical"],
+      "answer": "concise"
+    },
+    {
+      "number": 14,
+      "question": "He could not win the race because he ______ training for weeks.",
+      "options": ["omitted", "skipped", "neglected", "refused", "ignored"],
+      "answer": "neglected"
+    },
+    {
+      "number": 15,
+      "question": "The suspect was released because there was no ______ evidence against him.",
+      "options": ["ample", "tangible", "convincing", "concrete", "solid"],
+      "answer": "concrete"
+    }
+  ]
+},
+{
+  "instruction": "After each sentence, choose the interpretation that you consider most appropriate.",
+  "questions": [
+    {
+      "number": 16,
+      "question": "When the chairman saw that the argument was getting out of hand, he decided to call a spade a spade. This means that",
+      "options": ["he refused to speak", "he spoke frankly", "he avoided the issue", "he made excuses", "he lied to calm them"],
+      "answer": "he spoke frankly"
+    },
+    {
+      "number": 17,
+      "question": "The students took the law into their own hands. This means that they",
+      "options": ["became lawyers", "punished offenders themselves", "obeyed the law", "supported the police", "refused to judge others"],
+      "answer": "punished offenders themselves"
+    },
+    {
+      "number": 18,
+      "question": "The teacher's warning fell on deaf ears. This means that",
+      "options": ["the students pretended not to hear", "the students ignored the warning", "the students covered their ears", "the students misunderstood", "the warning was too low"],
+      "answer": "the students ignored the warning"
+    },
+    {
+      "number": 19,
+      "question": "The new policy has raised a storm in a teacup.",
+      "options": ["The matter is unimportant", "The problem is out of control", "The policy is very effective", "The issue is widely accepted", "The reaction is reasonable"],
+      "answer": "The matter is unimportant"
+    },
+    {
+      "number": 20,
+      "question": "The young man is at his wit’s end. This means that he",
+      "options": ["is confused and helpless", "is proud and boastful", "is resourceful", "is relaxed", "is overjoyed"],
+      "answer": "is confused and helpless"
+    },
+    {
+      "number": 21,
+      "question": "The chairman paid lip service to the welfare of the workers.",
+      "options": ["He praised them sincerely", "He pretended to care", "He helped them greatly", "He gave them advice", "He dismissed them"],
+      "answer": "He pretended to care"
+    },
+    {
+      "number": 22,
+      "question": "The candidate promised to fight tooth and nail to win the election.",
+      "options": ["He would struggle hard", "He would cheat", "He would remain calm", "He would bribe voters", "He would resign"],
+      "answer": "He would struggle hard"
+    },
+    {
+      "number": 23,
+      "question": "The manager decided to wash his hands off the project.",
+      "options": ["He wanted to withdraw", "He wanted to supervise", "He accepted the blame", "He increased his support", "He ignored the workers"],
+      "answer": "He wanted to withdraw"
+    },
+    {
+      "number": 24,
+      "question": "The woman suddenly broke down in tears.",
+      "options": ["She became angry", "She stopped crying", "She began to cry", "She smiled suddenly", "She shouted"],
+      "answer": "She began to cry"
+    },
+    {
+      "number": 25,
+      "question": "The soldiers were ordered to lay down their arms.",
+      "options": ["They were told to surrender", "They were told to continue fighting", "They were promoted", "They were armed", "They were arrested"],
+      "answer": "They were told to surrender"
+    }
+  ]
+},
+{
+  "instruction": "From the words lettered A to E, choose the word that is nearest in meaning to the underlined word.",
+  "questions": [
+    {
+      "number": 26,
+      "question": "The teacher was impressed by the boy’s <u>candour.</u>",
+      "options": ["confidence", "honesty", "pride", "skill", "courage"],
+      "answer": "honesty"
+    },
+    {
+      "number": 27,
+      "question": "The chairman delivered a <u>succinct</u> report.",
+      "options": ["long", "brief", "accurate", "serious", "comprehensive"],
+      "answer": "brief"
+    },
+    {
+      "number": 28,
+      "question": "The new evidence <u>corroborates</u> the witness’s statement.",
+      "options": ["contradicts", "supports", "weakens", "alters", "confirms"],
+      "answer": "confirms"
+    },
+    {
+      "number": 29,
+      "question": "The manager’s <u>resilience</u> helped him overcome challenges.",
+      "options": ["fear", "weakness", "determination", "courage", "persistence"],
+      "answer": "persistence"
+    },
+    {
+      "number": 30,
+      "question": "His <u>affluent</u> lifestyle made him popular in the city.",
+      "options": ["modest", "humble", "rich", "wasteful", "stingy"],
+      "answer": "rich"
+    },
+    {
+      "number": 31,
+      "question": "The speaker’s words were <u>inflammatory.</u>",
+      "options": ["inspiring", "provocative", "harsh", "persuasive", "diplomatic"],
+      "answer": "provocative"
+    },
+    {
+      "number": 32,
+      "question": "The lawyer made a <u>vehement</u> appeal to the jury.",
+      "options": ["strong", "emotional", "weak", "reasonable", "careless"],
+      "answer": "strong"
+    },
+    {
+      "number": 33,
+      "question": "The boy gave a <u>vivid</u> description of the incident.",
+      "options": ["dull", "clear", "partial", "lengthy", "brief"],
+      "answer": "clear"
+    },
+    {
+      "number": 34,
+      "question": "The students were asked to submit <u>duplicate</u> copies of their forms.",
+      "options": ["original", "similar", "extra", "identical", "handwritten"],
+      "answer": "identical"
+    },
+    {
+      "number": 35,
+      "question": "His <u>negligence</u> cost the company a lot of money.",
+      "options": ["carelessness", "selfishness", "laziness", "ignorance", "failure"],
+      "answer": "carelessness"
+    }
+  ]
+},
+{
+  "instruction": "From the words lettered A to E, choose the word opposite in meaning to the underlined word.",
+  "questions": [
+    {
+      "number": 36,
+      "question": "The principal <u>commended</u> the teacher for his hard work.",
+      "options": ["punished", "ignored", "dismissed", "rebuked", "suspended"],
+      "answer": "rebuked"
+    },
+    {
+      "number": 37,
+      "question": "The witness <u>affirmed</u> that the accused was guilty.",
+      "options": ["refused", "denied", "opposed", "withdrew", "rejected"],
+      "answer": "denied"
+    },
+    {
+      "number": 38,
+      "question": "The old man’s health is now <u>stable.</u>",
+      "options": ["critical", "declining", "frail", "uncertain", "unstable"],
+      "answer": "unstable"
+    },
+    {
+      "number": 39,
+      "question": "The suspect was <u>reluctant</u> to confess his crime.",
+      "options": ["eager", "afraid", "shy", "unwilling", "defensive"],
+      "answer": "eager"
+    },
+    {
+      "number": 40,
+      "question": "The manager’s attitude towards the workers was <u>harsh.</u>",
+      "options": ["kind", "severe", "strict", "cold", "indifferent"],
+      "answer": "kind"
+    },
+    {
+      "number": 41,
+      "question": "The debate ended on a <u>cordial</u> note.",
+      "options": ["friendly", "bitter", "rough", "neutral", "hostile"],
+      "answer": "hostile"
+    },
+    {
+      "number": 42,
+      "question": "The student’s essay was <u>lucid</u> and well-organized.",
+      "options": ["vague", "accurate", "neat", "coherent", "simple"],
+      "answer": "vague"
+    },
+    {
+      "number": 43,
+      "question": "The man’s story was <u>credible.</u>",
+      "options": ["doubtful", "false", "weak", "uncertain", "misleading"],
+      "answer": "false"
+    },
+    {
+      "number": 44,
+      "question": "The judge’s decision was <u>unbiased.</u>",
+      "options": ["unfair", "reasonable", "partial", "prejudiced", "unjust"],
+      "answer": "partial"
+    },
+    {
+      "number": 45,
+      "question": "The manager’s office was <u>immaculate.</u>",
+      "options": ["dirty", "bright", "empty", "simple", "ordinary"],
+      "answer": "dirty"
+    }
+  ]
+},
+
+{
+  "instruction": "Choose the word that has the same vowel or consonant sound as indicated.",
+  "questions": [
+    {
+      "number": 46,
+      "question": "From the words lettered A to E, choose the word that has the same vowel sound as the underlined letters in w<u>oo</u>d.",
+      "options": ["stood", "mood", "blood", "flood", "food"],
+      "answer": "stood"
+    },
+    {
+      "number": 47,
+      "question": "From the words lettered A to E, choose the word that has the same vowel sound as the underlined letter in b<u>ea</u>d.",
+      "options": ["sit", "said", "seat", "set", "bed"],
+      "answer": "seat"
+    },
+    {
+      "number": 48,
+      "question": "Identify the word that has the same vowel sound as /ɜː/.",
+      "options": ["beard", "heard", "shared", "scared", "spared"],
+      "answer": "heard"
+    },
+    {
+      "number": 49,
+      "question": "From the words lettered A to E, choose the word that has the same consonant sound as the underlined letter in <u>ph</u>one.",
+      "options": ["cough", "photo", "tough", "phase", "enough"],
+      "answer": "phase"
+    },
+    {
+      "number": 50,
+      "question": "From the words lettered A to E, choose the word that has the same consonant sound as the underlined letter in <u>ch</u>urch.",
+      "options": ["chef", "character", "choice", "chute", "champagne"],
+      "answer": "choice"
+    },
+    {
+      "number": 51,
+      "question": "Identify the word that has the same consonant sound as /ʃ/ in she.",
+      "options": ["measure", "assure", "mission", "pressure", "treasure"],
+      "answer": "mission"
+    }
+  ]
+},
+{
+  "instruction": "Choose the correct answer for each question.",
+  "questions": [
+    {
+      "number": 52,
+      "question": "Choose the word that rhymes with gate.",
+      "options": ["mate", "great", "debt", "get", "weight"],
+      "answer": "mate"
+    },
+    {
+      "number": 53,
+      "question": "Choose the word that rhymes with pool.",
+      "options": ["tool", "pull", "fool", "bowl", "wool"],
+      "answer": "fool"
+    },
+    {
+      "number": 54,
+      "question": "Choose the word that rhymes with bake.",
+      "options": ["back", "peak", "cake", "black", "break"],
+      "answer": "cake"
+    },
+    {
+      "number": 55,
+      "question": "Choose the option that shows the correct stress for conversation.",
+      "options": [
+        "CON-ver-sa-tion",
+        "con-VER-sa-tion",
+        "con-ver-SA-tion",
+        "con-ver-sa-TION",
+        "con-ver-sa-tion"
+      ],
+      "answer": "con-ver-SA-tion"
+    },
+    {
+      "number": 56,
+      "question": "Choose the option that shows the correct stress for economics.",
+      "options": [
+        "e-CO-no-mics",
+        "ec-o-NO-mics",
+        "e-co-no-MICS",
+        "E-co-no-mics",
+        "e-co-no-mics"
+      ],
+      "answer": "e-co-no-MICS"
+    },
+    {
+      "number": 57,
+      "question": "Choose the option that shows the correct stress for photograph.",
+      "options": [
+        "pho-TO-graph",
+        "PHO-to-graph",
+        "pho-to-GRAPH",
+        "pho-to-graph",
+        "pho-to-gra-PHY"
+      ],
+      "answer": "PHO-to-graph"
+    },
+    {
+      "number": 58,
+      "question": "He bought a NEW car yesterday.",
+      "options": [
+        "Did he sell a new car yesterday?",
+        "Did he buy an old car yesterday?",
+        "Did he buy a new house yesterday?",
+        "Did he buy a new car today?",
+        "Did he buy a new bicycle yesterday?"
+      ],
+      "answer": "Did he buy an old car yesterday?"
+    },
+    {
+      "number": 59,
+      "question": "The students PASSED the examination.",
+      "options": [
+        "Did the teachers pass the examination?",
+        "Did the students fail the examination?",
+        "Did the students pass the test?",
+        "Did the students sit for the examination?",
+        "Did the teachers mark the examination?"
+      ],
+      "answer": "Did the students fail the examination?"
+    },
+    {
+      "number": 60,
+      "question": "The children are playing in the GARDEN.",
+      "options": [
+        "Are the children sleeping in the garden?",
+        "Are the children playing in the field?",
+        "Are the adults playing in the garden?",
+        "Are the children playing in the house?",
+        "Are the children hiding in the garden?"
+      ],
+      "answer": "Are the children playing in the field?"
+    }
+  ]
+}
 ]
