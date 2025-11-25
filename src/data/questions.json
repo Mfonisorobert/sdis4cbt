@@ -1,504 +1,57 @@
-[
-    {
-      "number": 1,
-      "question": "One major objective of Social Studies in Nigeria is to help learners’ ____",
-      "options": [ "memorize foreign cultures",
-         "understand and solve social problems",
-         "avoid participation in society",
-         "depend on others for ideas"
-      ],
-      "answer": "understand and solve social problems"
-    },
-    {
-      "number": 2,
-      "question": "The family can best be described as __________.",
-      "options": [ "a group of unrelated people living together",
-         "people who come together to form an association",
-         "a group of people related by blood, marriage, or adoption",
-         "friends from the same village"
-      ],
-      "answer": "a group of people related by blood, marriage, or adoption"
-    },
-    {
-      "number": 3,
-      "question": "Family bonding means __________.",
-      "options": [ "fighting among family members",
-         "the act of sharing love, care, and togetherness in the family",
-         "avoiding relatives and friends",
-         "separating family members from one another"
-      ],
-      "answer": "the act of sharing love, care, and togetherness in the family"
-    },
-    {
-      "number": 4,
-      "question": "Which of the following is not a function of the family?",
-      "options": [ "Provision of love and security",
-         "Teaching good behavior and morals",
-         "Producing and selling goods for profit",
-         "Meeting basic needs such as food and shelter"
-      ],
-      "answer": "Producing and selling goods for profit"
-    },
-    {
-      "number": 5,
-      "question": "One type of family bonding is __________ bonding.",
-      "options": [ "economic",
-         "emotional",
-         "political",
-         "social media"
-      ],
-      "answer": "emotional"
-    },
-    {
-      "number": 6,
-      "question": "A major advantage of living together as a family is that it __________.",
-      "options": [ "brings misunderstanding among members",
-         "promotes love, unity, and cooperation",
-         "increases loneliness and isolation",
-         "reduces communication among relatives"
-      ],
-      "answer": "promotes love, unity, and cooperation"
-    },
-    {
-      "number": 7,
-      "question": "A good family reputation means __________.",
-      "options": [ "the family is feared by neighbors",
-         "members behave well and are respected in society",
-         "the family hides their problems",
-         "the family is very rich"
-      ],
-      "answer": "members behave well and are respected in society"
-    },
-    {
-      "number": 8,
-      "question": "The importance of a good family reputation includes __________.",
-      "options": [ "bringing shame to the family",
-         "causing hatred among relatives",
-         "earning respect and trust from others",
-         "creating conflict in society"
-      ],
-      "answer": "earning respect and trust from others"
-    },
-    {
-      "number": 9,
-      "question": "One main purpose of marriage is to __________.",
-      "options": [ "show off wealth",
-         "raise and train children",
-         "gain property and fame",
-         "separate from one’s parents"
-      ],
-      "answer": "raise and train children"
-    },
-    {
-      "number": 10,
-      "question": "The three main types of marriage in Nigeria are __________.",
-      "options": [ "Civil, Traditional, and Religious",
-         "Political, Legal, and Social",
-         "Economic, Cultural, and Tribal",
-         "Public, Secret, and Formal"
-      ],
-      "answer": "Civil, Traditional, and Religious"
-    },
-    {
-      "number": 11,
-      "question": "One of the main objectives of Social Studies is to help students ______",
-      "options": [ "become responsible citizens in society",
-         "focus only on personal success",
-         "avoid interaction with others",
-         "depend on foreign culture"
-      ],
-      "answer": "become responsible citizens in society"
-    },
-    {
-      "number": 12,
-      "question": "Which of the following is not a type of marriage practiced in Nigeria?",
-      "options": [ "Traditional marriage",
-         "Civil marriage",
-         "Religious marriage",
-         "Political marriage"
-      ],
-      "answer": "Political marriage"
-    },
-    {
-      "number": 13,
-      "question": "A traditional marriage in Nigeria is usually conducted __________.",
-      "options": [ "in a government office",
-         "according to the customs of a particular ethnic group",
-         "in a church only",
-         "by a court judge"
-      ],
-      "answer": "according to the customs of a particular ethnic group"
-    },
-    {
-      "number": 14,
-      "question": "In civil marriage, couples are joined together __________.",
-      "options": [ "in a law court or registry",
-         "at the market square",
-         "through a religious leader",
-         "by family elders"
-      ],
-      "answer": "in a law court or registry"
-    },
-    {
-      "number": 15,
-      "question": "Religious marriage is conducted according to the teachings of _______",
-      "options": [ "schools",
-         "religious faiths such as Christianity or Islam",
-         "the local government",
-         "political parties"
-      ],
-      "answer": "religious faiths such as Christianity or Islam"
-    },
-    {
-      "number": 16,
-      "question": "One purpose of marriage is to __________.",
-      "options": [ "enable couples to live happily and raise children",
-         "show superiority over others",
-         "acquire property from in-laws",
-         "create conflict among families"
-      ],
-      "answer": "enable couples to live happily and raise children"
-    },
-    {
-      "number": 17,
-      "question": "Readiness for marriage means __________.",
-      "options": [ "being prepared mentally, emotionally, and financially for married life",
-         "getting married at a very young age",
-         "obeying one’s friends’ advice on marriage",
-         "rushing into marriage for money"
-      ],
-      "answer": "being prepared mentally, emotionally, and financially for married life"
-    },
-    {
-      "number": 18,
-      "question": "A person who lacks readiness for marriage may __________.",
-      "options": [ "enjoy peace and harmony",
-         "have frequent quarrels and misunderstanding",
-         "have a stable home",
-         "show love and patience"
-      ],
-      "answer": "have frequent quarrels and misunderstanding"
-    },
-    {
-      "number": 19,
-      "question": "Which of the following is a sign of readiness for marriage?",
-      "options": [ "Ability to handle responsibilities",
-         "Laziness and dependence on parents",
-         "Lack of patience and understanding",
-         "Fear of commitment"
-      ],
-      "answer": "Ability to handle responsibilities"
-    },
-    {
-      "number": 20,
-      "question": "A person who gets married without emotional maturity is likely to _____",
-      "options": [ "have a successful marriage",
-         "face challenges in communication and understanding",
-         "live peacefully with others",
-         "show respect to their partner"
-      ],
-      "answer": "face challenges in communication and understanding"
-    },
-    {
-      "number": 21,
-      "question": "One unhealthy marriage practice in Nigeria is __________.",
-      "options": [ "early or forced marriage",
-         "mutual respect between partners",
-         "open communication",
-         "proper family planning"
-      ],
-      "answer": "early or forced marriage"
-    },
-    {
-      "number": 22,
-      "question": "Marriage should be entered into mainly for __________.",
-      "options": [ "love and companionship",
-         "financial gain",
-         "revenge on others",
-         "fame and popularity"
-      ],
-      "answer": "love and companionship"
-    },
-    {
-      "number": 23,
-      "question": "Lack of readiness in marriage can lead to __________.",
-      "options": [ "happy family life",
-         "divorce and broken homes",
-         "strong family bonds",
-         "peaceful relationships"
-      ],
-      "answer": "divorce and broken homes"
-    },
-    {
-      "number": 24,
-      "question": "Which of the following promotes a healthy marriage?",
-      "options": [ "Good communication and understanding",
-         "Violence and intimidation",
-         "Lack of trust",
-         "Dishonesty"
-      ],
-      "answer": "Good communication and understanding"
-    },
-    {
-      "number": 25,
-      "question": "Unhealthy marriage practices can be avoided by __________.",
-      "options": [ "proper counseling and preparation before marriage",
-         "hiding problems from each other",
-         "allowing parents to decide partners",
-         "rushing into marriage"
-      ],
-      "answer": "proper counseling and preparation before marriage"
-    },
-    {
-      "number": 26,
-      "question": "Integrity means _______.",
-      "options": [ "Stealing from others",
-         "Pretending to be good",
-         "Cheating in examinations",
-         "Being honest and having strong moral principles"
-      ],
-      "answer": "Being honest and having strong moral principles"
-    },
-    {
-      "number": 27,
-      "question": "A person of integrity is one who _______.",
-      "options": [ "Lies frequently",
-         "Keeps promises and tells the truth",
-         "Cheats in business",
-         "Disobeys the law"
-      ],
-      "answer": "Keeps promises and tells the truth"
-    },
-    {
-      "number": 28,
-      "question": "One of the benefits of integrity in society is _______.",
-      "options": [ "Peace and unity",
-         "Distrust among people",
-         "Increase in crime",
-         "Corruption"
-      ],
-      "answer": "Peace and unity"
-    },
-    {
-      "number": 29,
-      "question": "Integrity can be promoted by _______.",
-      "options": [ "Dishonesty",
-         "Disobeying laws",
-         "Taking bribes",
-         "Upholding truth and fairness"
-      ],
-      "answer": "Upholding truth and fairness"
-    },
-    {
-      "number": 30,
-      "question": "Contentment means _______.",
-      "options": [ "Being satisfied with what one has",
-         "Wanting everything others have",
-         "Being greedy",
-         "Jealousy and envy"
-      ],
-      "answer": "Being satisfied with what one has"
-    },
-    {
-      "number": 31,
-      "question": "One who is contented will not _______.",
-      "options": [ "Steal",
-         "Be grateful",
-         "Be happy",
-         "Live peacefully"
-      ],
-      "answer": "Steal"
-    },
-    {
-      "number": 32,
-      "question": "Lack of contentment can lead to _______.",
-      "options": [ "Joy and honesty",
-         "Peace of mind",
-         "Stealing and corruption",
-         "Faithfulness"
-      ],
-      "answer": "Stealing and corruption"
-    },
-    {
-      "number": 33,
-      "question": "A good way to show contentment is to _______.",
-      "options": [ "Borrow things you cannot repay",
-         "Envy your friends",
-         "Be thankful for what you have",
-         "Cheat in exams"
-      ],
-      "answer": "Be thankful for what you have"
-    },
-    {
-      "number": 34,
-      "question": "Discipline means _______.",
-      "options": [ "Disobeying teachers",
-         "Obedience to rules and regulations",
-         "Laziness",
-         "Doing whatever one likes"
-      ],
-      "answer": "Obedience to rules and regulations"
-    },
-    {
-      "number": 35,
-      "question": "A disciplined student will _______.",
-      "options": [ "Come late to school",
-         "Obey school rules",
-         "Fight in class",
-         "Refuse to do homework"
-      ],
-      "answer": "Obey school rules"
-    },
-    {
-      "number": 36,
-      "question": "Discipline helps in building _______.",
-      "options": [ "A disorganized society",
-         "Order and progress",
-         "Laziness",
-         "Corruption"
-      ],
-      "answer": "Order and progress"
-    },
-    {
-      "number": 37,
-      "question": "Parents and teachers promote discipline by _______.",
-      "options": [ "Rewarding bad behavior",
-         "Encouraging lies",
-         "Ignoring misconduct",
-         "Setting good examples"
-      ],
-      "answer": "Setting good examples"
-    },
-    {
-      "number": 38,
-      "question": "Indiscipline is _______.",
-      "options": [ "Disobedience to rules and regulations",
-         "Obedience to authority",
-         "Hard work and honesty",
-         "Being punctual"
-      ],
-      "answer": "Disobedience to rules and regulations"
-    },
-    {
-      "number": 39,
-      "question": "Which of the following is an example of indiscipline?",
-      "options": [ "Respecting elders",
-         "Obeying traffic rules",
-         "Fighting in public",
-         "Paying attention in class"
-      ],
-      "answer": "Fighting in public"
-    },
-    {
-      "number": 40,
-      "question": "One major cause of indiscipline is _______.",
-      "options": [ "Good parenting",
-         "Honesty",
-         "Respect for law",
-         "Poor home training"
-      ],
-      "answer": "Poor home training"
-    },
-    {
-      "number": 41,
-      "question": "Indiscipline in schools can lead to _______.",
-      "options": [ "Peace and order",
-         "Academic failure",
-         "Respect and progress",
-         "High moral values"
-      ],
-      "answer": "Academic failure"
-    },
-    {
-      "number": 42,
-      "question": "Courage means _______.",
-      "options": [ "Running away from challenges",
-         "Facing difficulties with confidence",
-         "Being afraid to speak the truth",
-         "Keeping quiet when things go wrong"
-      ],
-      "answer": "Facing difficulties with confidence"
-    },
-    {
-      "number": 43,
-      "question": "A courageous person is one who _______.",
-      "options": [ "Lies to save himself",
-         "Avoids taking responsibility",
-         "Stands for the truth even in danger",
-         "Fears what others will say"
-      ],
-      "answer": "Stands for the truth even in danger"
-    },
-    {
-      "number": 44,
-      "question": "Courage helps citizens to _______.",
-      "options": [ "Defend what is right",
-         "Submit to corruption",
-         "Keep silent in injustice",
-         "Run away from problems"
-      ],
-      "answer": "Defend what is right"
-    },
-    {
-      "number": 45,
-      "question": "A good example of courage is _______.",
-      "options": [ "A student reporting a cheating classmate",
-         "A person who lies to avoid punishment",
-         "A thief who runs from police",
-         "A lazy student copying in exams"
-      ],
-      "answer": "A student reporting a cheating classmate"
-    },
-    {
-      "number": 46,
-      "question": "Nigeria became a federation in _______.",
-      "options": [ "1954",
-         "1960",
-         "1963",
-         "1999"
-      ],
-      "answer": "1954"
-    },
-    {
-      "number": 47,
-      "question": "A federation is a system of government in which _______.",
-      "options": [ "Power is shared between central, state and local governments",
-         "Only one government exists",
-         "The army rules",
-         "The president has all powers"
-      ],
-      "answer": "Power is shared between central, state and local governments"
-    },
-    {
-      "number": 48,
-      "question": "Nigeria has how many states?",
-      "options": [ "30",
-         "35",
-         "36",
-         "37"
-      ],
-      "answer": "36"
-    },
-    {
-      "number": 49,
-      "question": "The three tiers of government in Nigeria are _______.",
-      "options": [ "Civil, Military, and Police",
-         "Central, Regional, and Municipal",
-         "Executive, Legislative, and Judicial",
-         "Federal, State, and Local Government"
-      ],
-      "answer": "Federal, State, and Local Government"
-    },
-    {
-      "number": 50,
-      "question": "The main reason for Nigeria’s federal system is to _______.",
-      "options": [ "Concentrate power in the center",
-         "Cause division among tribes",
-         "Make one region rule others",
-         "Promote unity in diversity"
-      ],
-      "answer": "Promote unity in diversity"
-    }
+ [
+    {"number":1,"question":"The type of memory that is based on capacitor technology and requires to be periodically refreshed is called","options":["SRAM","DRAM","ERAM","EERAM"],"answer":"DRAM"},
+    {"number":2,"question":"Which of the following is a primary storage?","options":["Hard Disk","RAM","CD-ROM drive","Pen Drive"],"answer":"RAM"},
+    {"number":3,"question":"Which of the following is a non-volatile memory?","options":["RAM","ROM","Cache memory","Register"],"answer":"ROM"},
+    {"number":4,"question":"……… are found inside the CPU case of a computer?","options":["Main memory","Modem","Keyboard","Mouse"],"answer":"Main memory"},
+    {"number":5,"question":"The operation of the computer is coordinated by?","options":["control unit","ALU","storage","RAM"],"answer":"control unit"},
+    {"number":6,"question":"The keyboard command that can assist in shutting down a computer system is?","options":["Ctrl + P","Windows + f4","Shift + P","Alt + f4"],"answer":"Alt + f4"},
+    {"number":7,"question":"The keyboard command that can undo an action on a computer is?","options":["Ctrl + X","Ctrl + Y","Ctrl + V","Ctrl + Z"],"answer":"Ctrl + Z"},
+    {"number":8,"question":"Which of the following is a read-only memory storage device?","options":["Floppy Disk","CD-ROM","Hard Disk","None of the above"],"answer":"CD-ROM"},
+    {"number":9,"question":"The main functional parts of the central processing unit are?","options":["ALU and CU","BUS and ALU","CMOS and BUS","RAM and ROM"],"answer":"ALU and CU"},
+    {"number":10,"question":"Which of the following stores the operating system files permanently","options":["Frisk Drives","Hard Disk","RAM","Cache"],"answer":"Hard Disk"},
+    {"number":11,"question":"Which among the following is correct about ROM?","options":["ROM is nonvolatile memory because any data stored in ROM remains there, even if the power is turned off","ROM is volatile memory because any data stored in ROM are lost if the power is turned off","All of the above","None of the above"],"answer":"ROM is nonvolatile memory because any data stored in ROM remains there, even if the power is turned off"},
+    {"number":12,"question":"The main memory works in conjunction with","options":["RAM","CPU","Special Wires Cards","None of these"],"answer":"CPU"},
+    {"number":13,"question":"Data loss in a computer cannot be prevented by the use of...?","options":["Antivirus","Backup","Flash drive","Password"],"answer":"Flash drive"},
+    {"number":14,"question":"Which of the following is an example of optical storage?","options":["SSD","DVD","Flas drive","Magnetic tape"],"answer":"DVD"},
+    {"number":15,"question":"Which of the following is a secondary storage device?","options":["Hard disk","ROM","DRAM","RAM"],"answer":"Hard disk"},
+    {"number":16,"question":"Which type of memory is erased when the computer has power failure?","options":["ROM","Secondary memory","RAM","None"],"answer":"RAM"},
+    {"number":17,"question":"Which of these is a magnetic storage device?","options":["Hard disk","Flash drive","Lu-ray disk","Digital video disk (DVD)"],"answer":"Digital video disk (DVD)"},
+    {"number":18,"question":"Which of the following is a cloud storage service?","options":["DVD","Flas drive","Google Drive","Hard Disk"],"answer":"Google Drive"},
+    {"number":19,"question":"Which of the following is NOT part of the CPU?","options":["Control Unit","Monitor","Memory Unit","Arithmetic logic Unit"],"answer":"Monitor"},
+    {"number":20,"question":"A character set that contains letters and digits is called …….. character?","options":["Alphanumeric","Numeric","Reserve","Special"],"answer":"Alphanumeric"},
+    {"number":21,"question":"The CPU is made up of how many parts","options":["Two","Three","One","Four"],"answer":"Three"},
+    {"number":22,"question":"The primary Memory is located on the ……… of the computer?","options":["Motherboard","Keyboard","Mouse","Monitor"],"answer":"Motherboard"},
+    {"number":23,"question":"Which component of the CPU controls and coordinates all the activities of the computer?","options":["Control Unit","Memory Unit","ALU","Output Unit"],"answer":"Control Unit"},
+    {"number":24,"question":"Which of the following is not a data item?","options":["Numeric data","Alphabetic data","Letter data","Alphanumeric data"],"answer":"Letter data"},
+    {"number":25,"question":"ALU stands for?","options":["Automatic Logic Unit","Arithmetic Logic Unit","Advanced logic Unit","Arithmetic Learning Unit"],"answer":"Arithmetic Logic Unit"},
+    {"number":26,"question":"What is the responsibility of the logical unit in the CPU of a computer?","options":["To produce result","To compare numbers","To control the flow of information","To play games"],"answer":"To compare numbers"},
+    {"number":27,"question":"Alphanumeric data consists of?","options":["digits","letters","special characters","all of the above"],"answer":"all of the above"},
+    {"number":28,"question":"The computer sends out the result of data processing on screen using an output device called?","options":["a monitor","a printer","a scanner","a keyboard"],"answer":"a monitor"},
+    {"number":29,"question":"All the following are computer peripherals EXCEPT?","options":["System unit","mouse","keyboard","monitor"],"answer":"System unit"},
+    {"number":30,"question":"Data can be entered into the computer via the following input devices EXCEPT?","options":["Printer","Keyboard","Joystick","Mouse"],"answer":"Printer"},
+    {"number":31,"question":"The two main memories of the computer are.....?","options":["CPU and Registers","RAM and ROM","ALU and CU","PROM and EEPROM"],"answer":"RAM and ROM"},
+    {"number":32,"question":"The term ROM means?","options":["Read Other Method","Read Only Memory","Repair Only Memory","all of the above"],"answer":"Read Only Memory"},
+    {"number":33,"question":"An example of alphabetic data is?","options":["H,D,J,F,J","2,3,4,5","2+3+4=9","#,$,%,&"],"answer":"H,D,J,F,J"},
+    {"number":34,"question":"Application software used for performing accounting and statistical calculations is called?","options":["Word processing software","Graphic software","Spreadsheet software","Utility software"],"answer":"Spreadsheet software"},
+    {"number":35,"question":"The importance of shutting down the computer properly after use is to?","options":["let it cool down","avoid damaging memory files of the computer","make sure it is not stolen","protect it from virus"],"answer":"avoid damaging memory files of the computer"},
+    {"number":36,"question":"The input device used to hand-draw images similar to the way a person draws images with pencil and paper is known as?","options":["Touchpad","Trackball","Graphic Tablet","Digital Camera"],"answer":"Graphic Tablet"},
+    {"number":37,"question":"UPS stands for?","options":["Under power supply","Uninterruptable power supply","Uninterruptible petrol supply","Use power sometimes"],"answer":"Uninterruptable power supply"},
+    {"number":38,"question":"Which of the following is not the function of the mouse?","options":["Clicking","Pointing","Pumping","Dragging"],"answer":"Pumping"},
+    {"number":39,"question":"What is the name of the main computer hardware that accommodates other accessories?","options":["Sever","Monitor","System unit","Motherboard"],"answer":"System unit"},
+    {"number":40,"question":"Which of these devices can serve as an input and output device?","options":["Touchpad","Stylus","Touch screen","Printer"],"answer":"Touch screen"},
+    {"number":41,"question":"Which of the following is not an output device?","options":["stylus","Projector","Printer","Speaker"],"answer":"stylus"},
+    {"number":42,"question":"An input device that is connected to a computer that allows anyone connected to the Internet to view either still pictures or motion video of a user or other objects is called?","options":["digital camera","webcam","OCR","monitor"],"answer":"webcam"},
+    {"number":43,"question":"One of these is a modifier key?","options":["Home Key","F6 Key","Shift Key","Page Up Key"],"answer":"Shift Key"},
+    {"number":44,"question":"All are navigation keys EXCEPT?","options":["Return Key","Arrow Keys","Window Key","Page Down Key"],"answer":"Window Key"},
+    {"number":45,"question":"One of these is NOT among the Function keys in a standard keyboard?","options":["F13","F12","F11","F10"],"answer":"F13"},
+    {"number":46,"question":"A paper printout of a document is known as?","options":["Softcopy output","Hardcopy output","Permanent Output","All of above"],"answer":"Hardcopy output"},
+    {"number":47,"question":"Which of these input devices is similar to the trackball?","options":["Monitor","Modem","Mouse","Microphone"],"answer":"Mouse"},
+    {"number":48,"question":"The shortcut “Ctrl + V” is used to?","options":["paste","Copy","High light","Undo"],"answer":"paste"},
+    {"number":49,"question":"An output device that can take the display of a computer screen and project a large version of it onto a flat surface is called?","options":["Monitor","Projector","Printer","Speaker"],"answer":"Projector"},
+    {"number":50,"question":"A hard copy would be prepared on a?","options":["monitor","printer","keyboard","joystick"],"answer":"printer"}
   ]
+
+
+
 
 
