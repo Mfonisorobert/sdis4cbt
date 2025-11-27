@@ -23,7 +23,7 @@
     {"number":22,"question":"The bigger the quantum jump;","options":["The lesser the energy released","The greater the energy released","The lower the frequency of light emitted","None of the above."],"answer":"The greater the energy released"},
     {"number":23,"question":"The lowest energy level the electron can occupy is the","options":["High state energy","Mid-state energy","Ground state energy","All of the above"],"answer":"Ground state energy"},
     {"number":24,"question":"Bohr and ______ models of atom assign specific energy to an electron when it occupies one of the allowed energy levels.","options":["Optics","Wave mechanics","Thermodynamics","Equilibrium of forces"],"answer":"Wave mechanics"},
-    {"number":25,"question":"If a village changes from 5v to 12v, and also from South to East, the voltage is","options":["D.C voltage","Ultra voltage","A.C voltage","None of the above"],"answer":"None of the above"},
+    {"number":25,"question":"If a voltage changes from 5v to 12v, and also from South to East, the voltage is","options":["D.C voltage","Ultra voltage","A.C voltage","None of the above"],"answer":"None of the above"},
     {"number":26,"question":"A current has a constant magnitude and constant direction, such current is known as:","options":["A.C Current","Low current","High current","D.C current"],"answer":"D.C current"},
     {"number":27,"question":"sincot =","options":["Sin2πωt","Cos2πft","Tanωt","Sin2πft"],"answer":"Cos2πft"},
     {"number":28,"question":"If Io = peak current = sincot / I then V = ?","options":["Sinωt","Vosinωt","Sin2πft","Iosinωt"],"answer":"Sin2πft"},
