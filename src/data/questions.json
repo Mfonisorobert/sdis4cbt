@@ -1,54 +1,553 @@
-[
-    {"number":1,"question":"Which of the following types of radiation has the highest frequency.","options":["Infrared rays","Radio waves","Visible rays","X-rays"],"answer":"Infrared rays"},
-    {"number":2,"question":"Which type of E-M radiation can be used to take photographs in the haze?","options":["Radio wave","Infrared wave","Visible light","U-V rays"],"answer":"U-V rays"},
-    {"number":3,"question":"The frequency of infrared waves is more than the frequency of","options":["Light waves","X-rays","γ-rays","Radio waves"],"answer":"Light waves"},
-    {"number":4,"question":"If a broadcasting station sends out waves of wavelength 300m, on what frequency is the station operating","options":["2.0 x 10^6 Hz","1.0 x 10^6 Hz","3.0 x 10^6 Hz","4.0 x 10^6 Hz"],"answer":"1.0 x 10^6 Hz"},
-    {"number":5,"question":"Time taken to complete a wave is termed as","options":["Span","Period","Life","Duration"],"answer":"Period"},
-    {"number":6,"question":"Any two shortest points in a wave that are in phase is known as","options":["Wave distance","Wave length","Phase length","Amplitude"],"answer":"Wave length"},
-    {"number":7,"question":"When an atom is in the ground state, it is said to be;","options":["Grounded","Excited","Stable","Ionized","Radiating"],"answer":"Stable"},
-    {"number":8,"question":"Which of the following gives rise to line spectra observed in atoms?","options":["Kinetic energy of a moving atom","Potential energy of an electron inside an atom","Change of an electron from a higher to a lower level in the atom","Disturbed proton in the nucleus","Excitation of an electron in the atom"],"answer":"Change of an electron from a higher to a lower level in the atom"},
-    {"number":9,"question":"What happens when excited electrons in an atom return to lower energy level?","options":["They absorb photons","They emit photons","They emit photons","They absorb neutrons."],"answer":"They emit photons"},
-    {"number":10,"question":"Bohr’s theory provides evidence for the:","options":["Structure of the atom","Positive charge of an electron","Existence of energy levels in the atom","Positive charge on a proton"],"answer":"Existence of energy levels in the atom"},
-    {"number":11,"question":"How many alpha particles are emitted in the radioactive decay of 23892U → 23090Th + 4 2He + 0−1β + ΔE","options":["2","3","6","12"],"answer":"3"},
-    {"number":12,"question":"Which of the following is not applicable in explaining nuclear fusion?","options":["The nuclei must overcome the electrical repulsion of their positive charges","For fusion to occur, the nuclei must come together within range of the nuclear force.","The electrostatic potential energy of the nuclei represents the initial kinetic energy which the fusion nuclei must have.","The energy required for fusion to occur could be obtained at standard temperature and pressure"],"answer":"The energy required for fusion to occur could be obtained at standard temperature and pressure"},
-    {"number":13,"question":"A radioactive element has a decay constant of 0.077 s^-1, calculate its half-life.","options":["12.5 s","9.0 s","5.1 s","0.5 s"],"answer":"9.0s"},
-    {"number":14,"question":"In 90 seconds, the mass of a radioactive element reduces to 1/16th of its original value. Determine the half-life of the element.","options":["15.0 s","18.0 s","22.5 s","30.0 s"],"answer":"22.5 s"},
-    {"number":15,"question":"If a radioactive atom emits a beta particle, the mass number of the atom.","options":["Decreases by one","Decreases by four","Increases by one","Increases by four","Remains the same"],"answer":"Remains the same"},
-    {"number":16,"question":"Which of the following materials is used to cause fission in an atomic reactor?","options":["Alpha particles","Beta particles","Electron","Neutrons"],"answer":"Neutrons"},
-    {"number":17,"question":"What is the decay constant of a radioactive element whose half-life is 3 seconds?","options":["0.1325 s^-1","0.2315 s^-1","0.3475 s^-1","0.6938 s^-1","0.9248 s^-1"],"answer":"0.2315 s^-1"},
-    {"number":18,"question":"The minimum energy required to remove an electron from an atom is known as","options":["Excitation energy","Ionization","Binding energy","Photon energy"],"answer":"Binding energy"},
-    {"number":19,"question":"The atoms of a gas are excited to produce a discharge which is examined with a spectrometer. The examination will reveal;","options":["A totally dark background","The colours of the rainbow","An emission spectrum","An absorption spectrum","A continuous spectrum"],"answer":"An emission spectrum"},
-    {"number":20,"question":"An important experimental evidence for existence of line of quantized energy levels in the atom is the existence of.","options":["Spectral lines","Massive nucleus","Ionization energy","Valence electrons"],"answer":"Spectral lines"},
-    {"number":21,"question":"The higher the energy of photon released, the shorter the wave length","options":["True","False","Not so true","Not so false"],"answer":"False"},
-    {"number":22,"question":"The bigger the quantum jump;","options":["The lesser the energy released","The greater the energy released","The lower the frequency of light emitted","None of the above."],"answer":"The greater the energy released"},
-    {"number":23,"question":"The lowest energy level the electron can occupy is the","options":["High state energy","Mid-state energy","Ground state energy","All of the above"],"answer":"Ground state energy"},
-    {"number":24,"question":"Bohr and ______ models of atom assign specific energy to an electron when it occupies one of the allowed energy levels.","options":["Optics","Wave mechanics","Thermodynamics","Equilibrium of forces"],"answer":"Wave mechanics"},
-    {"number":25,"question":"If a voltage changes from 5v to 12v, and also from South to East, the voltage is","options":["D.C voltage","Ultra voltage","A.C voltage","None of the above"],"answer":"None of the above"},
-    {"number":26,"question":"A current has a constant magnitude and constant direction, such current is known as:","options":["A.C Current","Low current","High current","D.C current"],"answer":"D.C current"},
-    {"number":27,"question":"sincot =","options":["Sin2πωt","Cos2πft","Tanωt","Sin2πft"],"answer":"Cos2πft"},
-    {"number":28,"question":"If Io = peak current = sincot / I then V = ?","options":["Sinωt","Vosinωt","Sin2πft","Iosinωt"],"answer":"Sin2πft"},
-    {"number":29,"question":"A signal is said to be SINUSOIDAL, because","options":["It is out of phase","In phase","It can be represented by sine or cosine curve"],"answer":"It can be represented by sine or cosine curve"},
-    {"number":30,"question":"The amplitude of a.c current or voltage is","options":["The lowest point","The middle point","The peak value","Any of the above"],"answer":"The peak value"},
-    {"number":31,"question":"The average of a.c current/voltage is zero because it","options":["Has no magnitude","Has no direction","Is negligible","Changes between maximum positive and minimum negative"],"answer":"Changes between maximum positive and minimum negative"},
-    {"number":32,"question":"The value of a.c current which produces heat in a resistor at the same rate as that of D.C is","options":["Root mean square","Minimum value","Zero point","All of the above"],"answer":"Root mean square"},
-    {"number":33,"question":"Effective value of a.c current is","options":["Voltage","Phase","Root mean square","None of the above"],"answer":"Root mean square"},
-    {"number":34,"question":"The root mean square (r.m.s) or the effective value of an a.c. current is related to the peak value of the a.c current by the equation.","options":["Irms = √(Io^2)","P = I^2_{r.m.s}.R","Vosin2πft","Any of the above"],"answer":"Irms = √(Io^2)"},
-    {"number":35,"question":"A sinusoidal a.c voltage is given by the equation V = 240 sin(100ūt). Find the frequency of the source.","options":["100 Hz","50 Hz","1000 Hz","10 Hz"],"answer":"50 Hz"},
-    {"number":36,"question":"The peak value of an alternating current passing through a resistor is √8 A. What is the r.m.s value of the current?","options":["15 A","90 A","40 A","2 A"],"answer":"2 A"},
-    {"number":37,"question":"The graphs shown (Xc vs c constant and Xc vs f constant) are graphs of:","options":["Pure resistor","Pure capacitor","Pure inductor","Capacitive reactance"],"answer":"Pure resistor"},
-    {"number":38,"question":"Xc = I/2πfc means","options":["The reactance (Xc) of a capacitor is inversely proportional to the frequency of the source","The Xc of a capacitor is directly proportional to the source frequency","The reactance (Xc) of a capacitor is directly proportional to the capacitance","None of the above"],"answer":"The reactance (Xc) of a capacitor is inversely proportional to the frequency of the source"},
-    {"number":39,"question":"The magnitude of inductive reactance (XL) is given by:","options":["XL = 1/ωC","XL = Iosin2πft","XL = 2πfL","Any of the above"],"answer":"XL = 2πfL"},
-    {"number":40,"question":"Inductive reactance is","options":["Resistance of a.c flow by an inductor","Reaction of A.C flow to a resistor","Opposition of a capacitor to a resistor","All of the above"],"answer":"Reaction of A.C flow to a resistor"},
-    {"number":41,"question":"The graph shows (current & voltage relationship):","options":["Phase relationship of current and voltage in capacitor","Phase relationship of current and voltage in an inductor","Capacitive reactance","All of the above."],"answer":"Phase relationship of current and voltage in capacitor"},
-    {"number":42,"question":"The diagram shows the:","options":["phase relationship of current and voltage in a capacitor","Phase relationship of current and voltage in an inductor","Inductive reactance","Capacitive reactance","(other)"],"answer":"(other)"},
-    {"number":43,"question":"Calculate the peak voltage of a mains supply of r.m.s. value 220 V","options":["112 V","150 V","222 V","240 V","311 V"],"answer":"112 V"},
-    {"number":44,"question":"The power dissipated in an a.c. circuit with an r.m.s current of c A, r.m.s voltage of 10 V and phase angle 60° is","options":["25 W","50 W","120 W","125 W"],"answer":"25 W"},
-    {"number":45,"question":"The voltage of the domestic electric supply is represented by the equation V = 311 sin 314.2 t. Determine the frequency of the a.c supply.","options":["50.0 Hz","100.0 Hz","311.0 Hz","314.2 Hz"],"answer":"50.0 Hz"},
-    {"number":46,"question":"At what frequency would a capacitor of 2.5π F used in a radio circuit have a reactance of 250 Ω?","options":["800/π Hz","200π Hz","2000π Hz","π/800 Hz"],"answer":"800/π Hz"},
-    {"number":47,"question":"In a purely inductive circuit, the current","options":["Lags behind the voltage phase by 90°","Leads the voltage in phase by 90°","Is in the same phase with the voltage","Leads the voltage by 180°"],"answer":"Leads the voltage by 180°"},
-    {"number":48,"question":"A capacitor of capacitance 25 μF is connected to an a.c power source of frequency 200/π Hz. Calculate the reactance of the capacitor","options":["0.01 Ω","0.02 Ω","50.00 Ω","100.00 Ω"],"answer":"50.00 Ω"},
-    {"number":49,"question":"Calculate the inductance L of the coil in the circuit shown (240 V, 100/π Hz, 2 A).","options":["14.4 H","3.8 H","0.6 H","0.4 H","0.2 H"],"answer":"3.8 H"},
-    {"number":50,"question":"Capacitive reactance is","options":["Impedance","Opposition of a capacitor","Opposition of a resistor","All of the above"],"answer":"Opposition of a capacitor"}
+ [
+    {
+      "number": 1,
+      "question": "What is another name for 'Coding'?",
+      "options": [
+        "Computing",
+        "Programming",
+        "Engineering",
+        "Translating"
+      ],
+      "answer": "Programming"
+    },
+    {
+      "number": 2,
+      "question": "Coding is the process of giving instructions to a computer to make it do certain...",
+      "options": [
+        "Dreams",
+        "Meals",
+        "Tasks",
+        "Breaks"
+      ],
+      "answer": "Tasks"
+    },
+    {
+      "number": 3,
+      "question": "Humans understand English, while computers understand what type of languages?",
+      "options": [
+        "Foreign languages",
+        "Coding languages",
+        "Sign languages",
+        "Ancient languages"
+      ],
+      "answer": "Coding languages"
+    },
+    {
+      "number": 4,
+      "question": "Which of these is NOT an advantage of coding?",
+      "options": [
+        "Problem-Solving",
+        "Creativity",
+        "Automation",
+        "Physical Strength"
+      ],
+      "answer": "Physical Strength"
+    },
+    {
+      "number": 5,
+      "question": "Coding teaches us to think logically and solve problems step by step. This is called...",
+      "options": [
+        "Public Speaking",
+        "Problem-Solving",
+        "Artistic Drawing",
+        "Physical Education"
+      ],
+      "answer": "Problem-Solving"
+    },
+    {
+      "number": 6,
+      "question": "Coding is a very important skill for the future, known as a ______-Century Skill.",
+      "options": [
+        "10th",
+        "15th",
+        "20th",
+        "21st"
+      ],
+      "answer": "21st"
+    },
+    {
+      "number": 7,
+      "question": "With coding, you can create websites, games, apps, and which other item mentioned?",
+      "options": [
+        "Houses",
+        "Cars",
+        "Robots",
+        "Paintings"
+      ],
+      "answer": "Robots"
+    },
+    {
+      "number": 8,
+      "question": "What type of coding uses simple drag-and-drop blocks?",
+      "options": [
+        "Textual Programming",
+        "Block-Level Programming",
+        "Symbolic Coding",
+        "Advanced Scripting"
+      ],
+      "answer": "Block-Level Programming"
+    },
+    {
+      "number": 9,
+      "question": "Which of these is an example of Block-Level Programming?",
+      "options": [
+        "Python",
+        "JavaScript",
+        "Scratch",
+        "C++"
+      ],
+      "answer": "Scratch"
+    },
+    {
+      "number": 10,
+      "question": "What makes Block-Level Programming good for beginners?",
+      "options": [
+        "It uses difficult maths.",
+        "It is simple and easy to learn.",
+        "It allows maximum control.",
+        "It requires fast typing."
+      ],
+      "answer": "It is simple and easy to learn."
+    },
+    {
+      "number": 11,
+      "question": "Which type of programming uses written instructions (text) like words and symbols?",
+      "options": [
+        "Block-Level Programming",
+        "Drag-and-Drop Coding",
+        "Textual Programming",
+        "Visual Programming"
+      ],
+      "answer": "Textual Programming"
+    },
+    {
+      "number": 12,
+      "question": "Which of the following is an example of Textual Programming?",
+      "options": [
+        "Blockly",
+        "Scratch",
+        "PictoBlox",
+        "Python"
+      ],
+      "answer": "Python"
+    },
+    {
+      "number": 13,
+      "question": "What is the difference between Scatch and mBlock",
+      "options": [
+        "Scratch is only for Coding while mBlock is for both coding and Robotics",
+        "Scratch is for both coding and robotics while mBlock is only for Robotics",
+        "mBlock is for Robotics while Scratch is for Robotics",
+        "They are the same"
+      ],
+      "answer": "Scratch is only for Coding while mBlock is for both coding and Robotics"
+    },
+    {
+      "number": 14,
+      "question": "What do we call errors in a program that stop it from running correctly?",
+      "options": [
+        "Glitches",
+        "Mistakes",
+        "Bugs",
+        "Failures"
+      ],
+      "answer": "Bugs"
+    },
+    {
+      "number": 15,
+      "question": "The process of finding and fixing errors in code is known as…",
+      "options": [
+        "Debugging",
+        "Rewriting",
+        "Formatting",
+        "Resetting"
+      ],
+      "answer": "Debugging"
+    },
+    {
+      "number": 16,
+      "question": "Which of these devices can be programmed using code?",
+      "options": [
+        "Television",
+        "Washing machine",
+        "Microcontroller",
+        "Fan"
+      ],
+      "answer": "Microcontroller"
+    },
+    {
+      "number": 17,
+      "question": "What is an algorithm?",
+      "options": [
+        "A computer virus",
+        "A step-by-step set of instructions to solve a problem",
+        "A coding language",
+        "A machine part"
+      ],
+      "answer": "A step-by-step set of instructions to solve a problem"
+    },
+    {
+      "number": 18,
+      "question": "According to the table, Block-Level Programming is best for:",
+      "options": [
+        "Professionals",
+        "Advanced learners",
+        "First learners",
+        "Engineers"
+      ],
+      "answer": "First learners"
+    },
+    {
+      "number": 19,
+      "question": "To use Textual Programming, you need to:",
+      "options": [
+        "Drag-and-drop code.",
+        "Type commands.",
+        "Connect blocks.",
+        "Use only symbols."
+      ],
+      "answer": "Type commands."
+    },
+    {
+      "number": 20,
+      "question": "Coding allows machines like ATMs to do tasks by themselves. This is called...",
+      "options": [
+        "Manual operation",
+        "Random action",
+        "Automation",
+        "Human control"
+      ],
+      "answer": "Automation"
+    },
+    {
+      "number": 21,
+      "question": "Which program is used to make games, animations, and stories using blocks?",
+      "options": [
+        "Blockly",
+        "PictoBlox",
+        "Scratch",
+        "Python"
+      ],
+      "answer": "Scratch"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following best describes Textual Programming?",
+      "options": [
+        "Uses visual blocks",
+        "Uses typed code or text commands",
+        "Uses only pictures",
+        "Uses color coding"
+      ],
+      "answer": "Uses typed code or text commands"
+    },
+    {
+      "number": 23,
+      "question": "What does the code print(\"Hello, world!\") tell the computer to do?",
+      "options": [
+        "To create a game",
+        "To tell the computer to stop",
+        "To display \"Hello, world!\"",
+        "To define a variable"
+      ],
+      "answer": "To display \"Hello, world!\""
+    },
+    {
+      "number": 24,
+      "question": "Which block-level program is used to program robots and AI projects?",
+      "options": [
+        "Scratch",
+        "Blockly",
+        "PictoBlox",
+        "JavaScript"
+      ],
+      "answer": "PictoBlox"
+    },
+    {
+      "number": 25,
+      "question": "ATMs and online payments are examples of tasks that coding allows through:",
+      "options": [
+        "Manual operation.",
+        "Problem-Solving.",
+        "Automation.",
+        "Programming."
+      ],
+      "answer": "Automation."
+    },
+    {
+      "number": 26,
+      "question": "Robotics is the technology that deals with the design, building, and use of...",
+      "options": [
+        "Computers",
+        "Robots",
+        "Mobile Phones",
+        "Power Plants"
+      ],
+      "answer": "Robots"
+    },
+    {
+      "number": 27,
+      "question": "What is a robot?",
+      "options": [
+        "A human who controls machines.",
+        "A simple mechanical tool.",
+        "A smart machine that can do work on its own.",
+        "A natural living thing."
+      ],
+      "answer": "A smart machine that can do work on its own."
+    },
+    {
+      "number": 28,
+      "question": "A key feature of robots is that they must be able to work with instructions, meaning they are...",
+      "options": [
+        "Biological",
+        "Programmable",
+        "Emotional",
+        "Organic"
+      ],
+      "answer": "Programmable"
+    },
+    {
+      "number": 29,
+      "question": "The physical parts of a robot like arms or legs form its ______ structure.",
+      "options": [
+        "Electrical",
+        "Mechanical",
+        "Chemical",
+        "Digital"
+      ],
+      "answer": "Mechanical"
+    },
+    {
+      "number": 30,
+      "question": "Which part helps a robot detect light, sound, or temperature?",
+      "options": [
+        "Actuators",
+        "End Effectors",
+        "Sensors",
+        "Power Source"
+      ],
+      "answer": "Sensors"
+    },
+    {
+      "number": 31,
+      "question": "Robots 'see' using which components?",
+      "options": [
+        "Motors and Actuators",
+        "Cameras and Light Sensors",
+        "Power Sources",
+        "End Effectors"
+      ],
+      "answer": "Cameras and Light Sensors"
+    },
+    {
+      "number": 32,
+      "question": "Which part of a robot is called the 'brain' because it gives instructions?",
+      "options": [
+        "Actuator",
+        "Sensor",
+        "End Effector",
+        "Controller (Processor)"
+      ],
+      "answer": "Controller (Processor)"
+    },
+    {
+      "number": 33,
+      "question": "Robots 'feel' using which type of sensors?",
+      "options": [
+        "Sight or Camera sensors",
+        "Smell or Taste sensors",
+        "Touch or Pressure sensors",
+        "Sound or Audio sensors"
+      ],
+      "answer": "Touch or Pressure sensors"
+    },
+    {
+      "number": 34,
+      "question": "What parts help a robot 'act' by making it move?",
+      "options": [
+        "End Effectors",
+        "Sensors",
+        "Motors and Actuators",
+        "Power Source"
+      ],
+      "answer": "Motors and Actuators"
+    },
+    {
+      "number": 35,
+      "question": "Which of the following is NOT a main part of a robot?",
+      "options": [
+        "Sensors",
+        "Power Source",
+        "End Effectors",
+        "Biological Heart"
+      ],
+      "answer": "Biological Heart"
+    },
+    {
+      "number": 36,
+      "question": "The part of the robot that gives it energy is the...",
+      "options": [
+        "Body/Frame",
+        "Actuator",
+        "Power Source",
+        "Controller"
+      ],
+      "answer": "Power Source"
+    },
+    {
+      "number": 37,
+      "question": "The 'hands' or 'tools' of a robot that do the actual work are called the...",
+      "options": [
+        "Actuators",
+        "End Effectors",
+        "Sensors",
+        "Body/Frame"
+      ],
+      "answer": "End Effectors"
+    },
+    {
+      "number": 38,
+      "question": "Which robot is commonly used in factories?",
+      "options": [
+        "Vacuum cleaning robots",
+        "Robotic arms",
+        "Drones",
+        "Humanoid robots"
+      ],
+      "answer": "Robotic arms"
+    },
+    {
+      "number": 39,
+      "question": "What type of robot is built to look like a human?",
+      "options": [
+        "Factory robot",
+        "Medical robot",
+        "Vacuum robot",
+        "Humanoid robot"
+      ],
+      "answer": "Humanoid robot"
+    },
+    {
+      "number": 40,
+      "question": "Ordinary machines only work when humans...",
+      "options": [
+        "Program them",
+        "Operate them",
+        "Repair them",
+        "Design them"
+      ],
+      "answer": "Operate them"
+    },
+    {
+      "number": 41,
+      "question": "Robots can work on their own and sometimes make...",
+      "options": [
+        "Noise",
+        "Friends",
+        "Decisions",
+        "Mistakes"
+      ],
+      "answer": "Decisions"
+    },
+    {
+      "number": 42,
+      "question": "Robots are important because they help humans do work that is hard or...",
+      "options": [
+        "Simple",
+        "Dangerous",
+        "Cheap",
+        "Boring"
+      ],
+      "answer": "Dangerous"
+    },
+    {
+      "number": 43,
+      "question": "Robots help make work faster and more...",
+      "options": [
+        "Expensive",
+        "Accurate",
+        "Difficult",
+        "Messy"
+      ],
+      "answer": "Accurate"
+    },
+    {
+      "number": 44,
+      "question": "The basic electronics of a robot's physical components (hardware) are known as the...",
+      "options": [
+        "Software",
+        "Coding",
+        "Data",
+        "Basic electronics"
+      ],
+      "answer": "Basic electronics"
+    },
+    {
+      "number": 45,
+      "question": "In the relationship between coding and robotics, coding provides the...",
+      "options": [
+        "Machine (the body)",
+        "Sensors (the eyes)",
+        "Instructions (the brain)",
+        "Power (the energy)"
+      ],
+      "answer": "Instructions (the brain)"
+    },
+    {
+      "number": 46,
+      "question": "Robotics provides the ______ in the relationship with coding.",
+      "options": [
+        "Language",
+        "Instructions",
+        "Commands",
+        "Machine (the body)"
+      ],
+      "answer": "Machine (the body)"
+    },
+    {
+      "number": 47,
+      "question": "A robot cannot work without...",
+      "options": [
+        "A human operator.",
+        "An antenna.",
+        "Coding.",
+        "A battery."
+      ],
+      "answer": "Coding"
+    },
+    {
+      "number": 48,
+      "question": "Learning coding and robotics helps students learn to think logically and to be good at...",
+      "options": [
+        "Memorization",
+        "Public speaking",
+        "Problem-solving",
+        "Artistic drawing"
+      ],
+      "answer": "Problem-solving"
+    },
+    {
+      "number": 49,
+      "question": "What is a humanoid?",
+      "options": [
+        "Humanlike robots.",
+        "Robots that look like cars.",
+        "Robots that can carry heavy loads.",
+        "Robots that can fly."
+      ],
+      "answer": "Humanlike robots."
+    },
+    {
+      "number": 50,
+      "question": "Who can learn coding and programming?",
+      "options": [
+        "Graduates ONLY.",
+        "Anybody.",
+        "Secondary school students ONLY.",
+        "Parents ONLY."
+      ],
+      "answer": "Anybody."
+    }
   ]
-
 
