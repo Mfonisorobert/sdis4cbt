@@ -509,10 +509,10 @@
       "number": 47,
       "question": "A robot cannot work without...",
       "options": [
-        "A human operator.",
-        "An antenna.",
-        "Coding.",
-        "A battery."
+        "A human operator",
+        "An antenna",
+        "Coding",
+        "A battery"
       ],
       "answer": "Coding"
     },
