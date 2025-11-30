@@ -1,553 +1,302 @@
- [
+[
     {
       "number": 1,
-      "question": "What is another name for 'Coding'?",
-      "options": [
-        "Computing",
-        "Programming",
-        "Engineering",
-        "Translating"
-      ],
-      "answer": "Programming"
+      "question": "Which of the following is not a skill for practical living?",
+      "options": ["Life coping skill", "Manipulative skill", "Artistic skill", "Cyber crime skill"],
+      "answer": "Cyber crime skill"
     },
     {
       "number": 2,
-      "question": "Coding is the process of giving instructions to a computer to make it do certain...",
-      "options": [
-        "Dreams",
-        "Meals",
-        "Tasks",
-        "Breaks"
-      ],
-      "answer": "Tasks"
+      "question": "When the national flag is flown half mast, it is a sign of national",
+      "options": ["centenary", "children’s day", "independence", "mourning"],
+      "answer": "mourning"
     },
     {
       "number": 3,
-      "question": "Humans understand English, while computers understand what type of languages?",
-      "options": [
-        "Foreign languages",
-        "Coding languages",
-        "Sign languages",
-        "Ancient languages"
-      ],
-      "answer": "Coding languages"
+      "question": "In order to guarantee transparency and accountability in governance, leaders should ensure that",
+      "options": ["constitutionalism thrives", "the judiciary is supervised", "immunity covers government officials", "trials should be held in secret"],
+      "answer": "constitutionalism thrives"
     },
     {
       "number": 4,
-      "question": "Which of these is NOT an advantage of coding?",
-      "options": [
-        "Problem-Solving",
-        "Creativity",
-        "Automation",
-        "Physical Strength"
-      ],
-      "answer": "Physical Strength"
+      "question": "The upper legislative chamber of the National Assembly of Nigeria is also known as the",
+      "options": ["honourables", "house of commons", "house of lords", "senate"],
+      "answer": "senate"
     },
     {
       "number": 5,
-      "question": "Coding teaches us to think logically and solve problems step by step. This is called...",
-      "options": [
-        "Public Speaking",
-        "Problem-Solving",
-        "Artistic Drawing",
-        "Physical Education"
-      ],
-      "answer": "Problem-Solving"
+      "question": "The structure of the Nigerian legislature is ______ in nature.",
+      "options": ["confederal", "federal", "unicameral", "bicameral"],
+      "answer": "bicameral"
     },
     {
       "number": 6,
-      "question": "Coding is a very important skill for the future, known as a ______-Century Skill.",
-      "options": [
-        "10th",
-        "15th",
-        "20th",
-        "21st"
-      ],
-      "answer": "21st"
+      "question": "The political party’s programme is known as its",
+      "options": ["constitution", "document", "functions", "manifesto"],
+      "answer": "manifesto"
     },
     {
       "number": 7,
-      "question": "With coding, you can create websites, games, apps, and which other item mentioned?",
-      "options": [
-        "Houses",
-        "Cars",
-        "Robots",
-        "Paintings"
-      ],
-      "answer": "Robots"
+      "question": "In 2022, Nigeria celebrated her _____ independence anniversary.",
+      "options": ["54th", "52nd", "62nd", "53rd"],
+      "answer": "52nd"
     },
     {
       "number": 8,
-      "question": "What type of coding uses simple drag-and-drop blocks?",
-      "options": [
-        "Textual Programming",
-        "Block-Level Programming",
-        "Symbolic Coding",
-        "Advanced Scripting"
-      ],
-      "answer": "Block-Level Programming"
+      "question": "Which of these is not a system of government?",
+      "options": ["Monarchy", "Oligarchy", "Plutocracy", "Anarchy"],
+      "answer": "Anarchy"
     },
     {
       "number": 9,
-      "question": "Which of these is an example of Block-Level Programming?",
-      "options": [
-        "Python",
-        "JavaScript",
-        "Scratch",
-        "C++"
-      ],
-      "answer": "Scratch"
+      "question": "Cooperation between one country and another can be described as",
+      "options": ["international", "multinational", "unilateral", "bilateral"],
+      "answer": "bilateral"
     },
     {
       "number": 10,
-      "question": "What makes Block-Level Programming good for beginners?",
-      "options": [
-        "It uses difficult maths.",
-        "It is simple and easy to learn.",
-        "It allows maximum control.",
-        "It requires fast typing."
-      ],
-      "answer": "It is simple and easy to learn."
+      "question": "One of the aims of citizenship education is to produce students with",
+      "options": ["creative skill", "high sense of entrepreneurial", "manipulative skill", "high sense of patriotism"],
+      "answer": "high sense of patriotism"
     },
     {
       "number": 11,
-      "question": "Which type of programming uses written instructions (text) like words and symbols?",
-      "options": [
-        "Block-Level Programming",
-        "Drag-and-Drop Coding",
-        "Textual Programming",
-        "Visual Programming"
-      ],
-      "answer": "Textual Programming"
+      "question": "The National Youth Service Corps scheme was established in Nigeria in",
+      "options": ["1970", "1971", "1975", "1973"],
+      "answer": "1973"
     },
     {
       "number": 12,
-      "question": "Which of the following is an example of Textual Programming?",
-      "options": [
-        "Blockly",
-        "Scratch",
-        "PictoBlox",
-        "Python"
-      ],
-      "answer": "Python"
+      "question": "Franchise means the right to",
+      "options": ["contest for political post", "join association", "live in Nigeria", "vote and be voted for"],
+      "answer": "vote and be voted for"
     },
     {
       "number": 13,
-      "question": "What is the difference between Scatch and mBlock",
-      "options": [
-        "Scratch is only for Coding while mBlock is for both coding and Robotics",
-        "Scratch is for both coding and robotics while mBlock is only for Robotics",
-        "mBlock is for Robotics while Scratch is for Robotics",
-        "They are the same"
-      ],
-      "answer": "Scratch is only for Coding while mBlock is for both coding and Robotics"
+      "question": "How many members constitute the lower legislature?",
+      "options": ["300", "302", "360", "342"],
+      "answer": "360"
     },
     {
       "number": 14,
-      "question": "What do we call errors in a program that stop it from running correctly?",
-      "options": [
-        "Glitches",
-        "Mistakes",
-        "Bugs",
-        "Failures"
-      ],
-      "answer": "Bugs"
+      "question": "The formation and implementation of policies are the major duties of the",
+      "options": ["judiciary", "legislature", "executive", "police"],
+      "answer": "executive"
     },
     {
       "number": 15,
-      "question": "The process of finding and fixing errors in code is known as…",
-      "options": [
-        "Debugging",
-        "Rewriting",
-        "Formatting",
-        "Resetting"
-      ],
-      "answer": "Debugging"
+      "question": "If Nigeria is now hundred years since amalgamation which means she has celebrated ______ anniversary.",
+      "options": ["amalgamation", "golden jubilee", "centenary", "silver jubilee"],
+      "answer": "centenary"
     },
     {
       "number": 16,
-      "question": "Which of these devices can be programmed using code?",
-      "options": [
-        "Television",
-        "Washing machine",
-        "Microcontroller",
-        "Fan"
-      ],
-      "answer": "Microcontroller"
+      "question": "The headquarters of ECOWAS is located in",
+      "options": ["Freetown", "Accra", "Abuja", "Togo"],
+      "answer": "Abuja"
     },
     {
       "number": 17,
-      "question": "What is an algorithm?",
-      "options": [
-        "A computer virus",
-        "A step-by-step set of instructions to solve a problem",
-        "A coding language",
-        "A machine part"
-      ],
-      "answer": "A step-by-step set of instructions to solve a problem"
+      "question": "Citizens can be deprived of their rights during",
+      "options": ["democratic regime", "political campaign", "emergency rule", "political campaign"],
+      "answer": "emergency rule"
     },
     {
       "number": 18,
-      "question": "According to the table, Block-Level Programming is best for:",
-      "options": [
-        "Professionals",
-        "Advanced learners",
-        "First learners",
-        "Engineers"
-      ],
-      "answer": "First learners"
+      "question": "Red–tapism is one of the shortcomings of",
+      "options": ["private enterprise", "pressure groups", "civil service", "non–governmental organization"],
+      "answer": "civil service"
     },
     {
       "number": 19,
-      "question": "To use Textual Programming, you need to:",
-      "options": [
-        "Drag-and-drop code.",
-        "Type commands.",
-        "Connect blocks.",
-        "Use only symbols."
-      ],
-      "answer": "Type commands."
+      "question": "A society that is free from HIV/AIDS infected persons will likely experience",
+      "options": ["increase in level of power", "loss of manpower", "increase in level of productivity", "high death rate"],
+      "answer": "increase in level of productivity"
     },
     {
       "number": 20,
-      "question": "Coding allows machines like ATMs to do tasks by themselves. This is called...",
-      "options": [
-        "Manual operation",
-        "Random action",
-        "Automation",
-        "Human control"
-      ],
-      "answer": "Automation"
+      "question": "The sole aim of youth empowerment is to",
+      "options": ["encourage students to take on a vocation job", "learn to earn money and also how to manage it", "give youths financial independence and self- reliance", "learn how to behave in a work related environment"],
+      "answer": "give youths financial independence and self- reliance"
     },
     {
       "number": 21,
-      "question": "Which program is used to make games, animations, and stories using blocks?",
-      "options": [
-        "Blockly",
-        "PictoBlox",
-        "Scratch",
-        "Python"
-      ],
-      "answer": "Scratch"
+      "question": "National consciousness, unity and integrity are promoted through all the following ways except",
+      "options": ["obedience to rules and regulations", "National Youth Service Corps", "Teaching of Civic Education in schools", "Compromise of the rule of law"],
+      "answer": "Compromise of the rule of law"
     },
     {
       "number": 22,
-      "question": "Which of the following best describes Textual Programming?",
-      "options": [
-        "Uses visual blocks",
-        "Uses typed code or text commands",
-        "Uses only pictures",
-        "Uses color coding"
-      ],
-      "answer": "Uses typed code or text commands"
+      "question": "A ban on public lectures and symposiums is against the right to freedom of",
+      "options": ["Movement and right to speech", "Worship and fair hearing", "Electronic and print media", "Peaceful assembly and association"],
+      "answer": "Peaceful assembly and association"
     },
     {
       "number": 23,
-      "question": "What does the code print(\"Hello, world!\") tell the computer to do?",
-      "options": [
-        "To create a game",
-        "To tell the computer to stop",
-        "To display \"Hello, world!\"",
-        "To define a variable"
-      ],
-      "answer": "To display \"Hello, world!\""
+      "question": "Who among the following could be described as the founding father of Nigeria nationalism?",
+      "options": ["Nnamdi Azikiwe", "Ahmadu Bello", "Obafemi Awolowo", "Herbert Macaulay"],
+      "answer": "Herbert Macaulay"
     },
     {
       "number": 24,
-      "question": "Which block-level program is used to program robots and AI projects?",
-      "options": [
-        "Scratch",
-        "Blockly",
-        "PictoBlox",
-        "JavaScript"
-      ],
-      "answer": "PictoBlox"
+      "question": "The right to vote and be voted for is classified under _____ rights.",
+      "options": ["economic", "legal", "religious", "political"],
+      "answer": "political"
     },
     {
       "number": 25,
-      "question": "ATMs and online payments are examples of tasks that coding allows through:",
-      "options": [
-        "Manual operation.",
-        "Problem-Solving.",
-        "Automation.",
-        "Programming."
-      ],
-      "answer": "Automation."
+      "question": "The laws made by the third tier of government in Nigeria are referred to as",
+      "options": ["constitutional laws", "decrees", "policies", "bye–laws"],
+      "answer": "bye–laws"
     },
     {
       "number": 26,
-      "question": "Robotics is the technology that deals with the design, building, and use of...",
-      "options": [
-        "Computers",
-        "Robots",
-        "Mobile Phones",
-        "Power Plants"
-      ],
-      "answer": "Robots"
+      "question": "Which of the following is regarded as the symbol of the legislature?",
+      "options": ["National flag", "Oath taking", "The building", "The mace"],
+      "answer": "The mace"
     },
     {
       "number": 27,
-      "question": "What is a robot?",
-      "options": [
-        "A human who controls machines.",
-        "A simple mechanical tool.",
-        "A smart machine that can do work on its own.",
-        "A natural living thing."
-      ],
-      "answer": "A smart machine that can do work on its own."
+      "question": "One of the major problems facing local government administration in Nigeria is",
+      "options": ["insufficient councilors", "lack of control by the central government", "leadership", "lack of funds"],
+      "answer": "lack of funds"
     },
     {
       "number": 28,
-      "question": "A key feature of robots is that they must be able to work with instructions, meaning they are...",
-      "options": [
-        "Biological",
-        "Programmable",
-        "Emotional",
-        "Organic"
-      ],
-      "answer": "Programmable"
+      "question": "In a democracy, official opposition is allowed to",
+      "options": ["bring down the government", "pave way for military intervention", "encourage crisis in a state", "criticize constructively"],
+      "answer": "criticize constructively"
     },
     {
       "number": 29,
-      "question": "The physical parts of a robot like arms or legs form its ______ structure.",
-      "options": [
-        "Electrical",
-        "Mechanical",
-        "Chemical",
-        "Digital"
-      ],
-      "answer": "Mechanical"
+      "question": "The 1999 constitution could be described as rigid mainly because",
+      "options": ["its amendment requires two-third majority votes of the National Assembly", "its implementation requires the regular services of experienced constitutional lawyers", "adherence to its provision is very difficult", "it requires the presidential proclamation and judicial decision"],
+      "answer": "its amendment requires two-third majority votes of the National Assembly"
     },
     {
       "number": 30,
-      "question": "Which part helps a robot detect light, sound, or temperature?",
-      "options": [
-        "Actuators",
-        "End Effectors",
-        "Sensors",
-        "Power Source"
-      ],
-      "answer": "Sensors"
+      "question": "Lack of interest in politics by citizens in the country is referred to as political",
+      "options": ["apathy", "ignorance", "participation", "socialization"],
+      "answer": "apathy"
     },
     {
       "number": 31,
-      "question": "Robots 'see' using which components?",
-      "options": [
-        "Motors and Actuators",
-        "Cameras and Light Sensors",
-        "Power Sources",
-        "End Effectors"
-      ],
-      "answer": "Cameras and Light Sensors"
+      "question": "Human rights are the cornerstone of",
+      "options": ["democracy", "plutocracy", "aristocracy", "theocracy"],
+      "answer": "democracy"
     },
     {
       "number": 32,
-      "question": "Which part of a robot is called the 'brain' because it gives instructions?",
-      "options": [
-        "Actuator",
-        "Sensor",
-        "End Effector",
-        "Controller (Processor)"
-      ],
-      "answer": "Controller (Processor)"
+      "question": "The present constitution of Nigeria came into operation in",
+      "options": ["1995", "1997", "1999", "1996"],
+      "answer": "1999"
     },
     {
       "number": 33,
-      "question": "Robots 'feel' using which type of sensors?",
-      "options": [
-        "Sight or Camera sensors",
-        "Smell or Taste sensors",
-        "Touch or Pressure sensors",
-        "Sound or Audio sensors"
-      ],
-      "answer": "Touch or Pressure sensors"
+      "question": "In democracy, power belongs to",
+      "options": ["executive", "government", "electorates", "legislature"],
+      "answer": "electorates"
     },
     {
       "number": 34,
-      "question": "What parts help a robot 'act' by making it move?",
-      "options": [
-        "End Effectors",
-        "Sensors",
-        "Motors and Actuators",
-        "Power Source"
-      ],
-      "answer": "Motors and Actuators"
+      "question": "In democracy, political contest can be restricted on the basis of",
+      "options": ["class", "race", "age", "religion"],
+      "answer": "age"
     },
     {
       "number": 35,
-      "question": "Which of the following is NOT a main part of a robot?",
-      "options": [
-        "Sensors",
-        "Power Source",
-        "End Effectors",
-        "Biological Heart"
-      ],
-      "answer": "Biological Heart"
+      "question": "An election conducted to determine a winner after a general election is known as _____ election.",
+      "options": ["bye", "secondary", "run-off", "primary"],
+      "answer": "run-off"
     },
     {
       "number": 36,
-      "question": "The part of the robot that gives it energy is the...",
-      "options": [
-        "Body/Frame",
-        "Actuator",
-        "Power Source",
-        "Controller"
-      ],
-      "answer": "Power Source"
+      "question": "What is the full meaning of CFR?",
+      "options": ["Campaign for Re-orientation", "Chief-in-Council of the Federal Republic", "Commander of the Federal Republic", "Committee on Federal Revenue"],
+      "answer": "Commander of the Federal Republic"
     },
     {
       "number": 37,
-      "question": "The 'hands' or 'tools' of a robot that do the actual work are called the...",
-      "options": [
-        "Actuators",
-        "End Effectors",
-        "Sensors",
-        "Body/Frame"
-      ],
-      "answer": "End Effectors"
+      "question": "The National Assembly, Presidency and court which are inter-related and interdependent in our democracy constitute the",
+      "options": ["tiers of government", "forms of government", "arms of government", "types of democracy"],
+      "answer": "arms of government"
     },
     {
       "number": 38,
-      "question": "Which robot is commonly used in factories?",
-      "options": [
-        "Vacuum cleaning robots",
-        "Robotic arms",
-        "Drones",
-        "Humanoid robots"
-      ],
-      "answer": "Robotic arms"
+      "question": "Democracy can promote national development if there is",
+      "options": ["promotion of culture", "immunity for leaders", "good governance", "registration of parties"],
+      "answer": "good governance"
     },
     {
       "number": 39,
-      "question": "What type of robot is built to look like a human?",
-      "options": [
-        "Factory robot",
-        "Medical robot",
-        "Vacuum robot",
-        "Humanoid robot"
-      ],
-      "answer": "Humanoid robot"
+      "question": "One major factor that hinders women from participating actively in politics is",
+      "options": ["their educational background", "lack of fund and financial power", "societal discrimination and belief system", "their religious background"],
+      "answer": "societal discrimination and belief system"
     },
     {
       "number": 40,
-      "question": "Ordinary machines only work when humans...",
-      "options": [
-        "Program them",
-        "Operate them",
-        "Repair them",
-        "Design them"
-      ],
-      "answer": "Operate them"
+      "question": "Which of the following is a negative way of engaging in popular participation in a state?",
+      "options": ["Engaging in rallies and demonstrations", "Joining political party of your choice", "Taking part in general elections", "Snatching of ballot box during elections"],
+      "answer": "Snatching of ballot box during elections"
     },
     {
       "number": 41,
-      "question": "Robots can work on their own and sometimes make...",
-      "options": [
-        "Noise",
-        "Friends",
-        "Decisions",
-        "Mistakes"
-      ],
-      "answer": "Decisions"
+      "question": "A non-governmental organization that allows independent initiative of citizens is known as",
+      "options": ["civil society", "pressure group", "religious group", "professional society"],
+      "answer": "pressure group"
     },
     {
       "number": 42,
-      "question": "Robots are important because they help humans do work that is hard or...",
-      "options": [
-        "Simple",
-        "Dangerous",
-        "Cheap",
-        "Boring"
-      ],
-      "answer": "Dangerous"
+      "question": "The headquarters of United Nations is located in",
+      "options": ["Abuja", "New York", "England", "Hague"],
+      "answer": "New York"
     },
     {
       "number": 43,
-      "question": "Robots help make work faster and more...",
-      "options": [
-        "Expensive",
-        "Accurate",
-        "Difficult",
-        "Messy"
-      ],
-      "answer": "Accurate"
+      "question": "The public service structure of Nigeria is an offshoot of",
+      "options": ["America", "British", "Canada", "India"],
+      "answer": "British"
     },
     {
       "number": 44,
-      "question": "The basic electronics of a robot's physical components (hardware) are known as the...",
-      "options": [
-        "Software",
-        "Coding",
-        "Data",
-        "Basic electronics"
-      ],
-      "answer": "Basic electronics"
+      "question": "In the civil service, cleaners, drivers and security belong to class",
+      "options": ["administrative", "messengerial", "clerical", "professional"],
+      "answer": "messengerial"
     },
     {
       "number": 45,
-      "question": "In the relationship between coding and robotics, coding provides the...",
-      "options": [
-        "Machine (the body)",
-        "Sensors (the eyes)",
-        "Instructions (the brain)",
-        "Power (the energy)"
-      ],
-      "answer": "Instructions (the brain)"
+      "question": "In the constitution, the areas where both the federal and state governments exercise joint authority are on the",
+      "options": ["residual list", "concurrent list", "exclusive list", "reserved list"],
+      "answer": "concurrent list"
     },
     {
       "number": 46,
-      "question": "Robotics provides the ______ in the relationship with coding.",
-      "options": [
-        "Language",
-        "Instructions",
-        "Commands",
-        "Machine (the body)"
-      ],
-      "answer": "Machine (the body)"
+      "question": "The origin of democracy is traced to the",
+      "options": ["Greeks", "Egyptians", "Romans", "British"],
+      "answer": "Greeks"
     },
     {
       "number": 47,
-      "question": "A robot cannot work without...",
-      "options": [
-        "A human operator",
-        "An antenna",
-        "Coding",
-        "A battery"
-      ],
-      "answer": "Coding"
+      "question": "An election conducted to fill a vacant seat in the legislative chamber is called _____ election.",
+      "options": ["bye", "general", "plebiscite", "primary"],
+      "answer": "bye"
     },
     {
       "number": 48,
-      "question": "Learning coding and robotics helps students learn to think logically and to be good at...",
-      "options": [
-        "Memorization",
-        "Public speaking",
-        "Problem-solving",
-        "Artistic drawing"
-      ],
-      "answer": "Problem-solving"
+      "question": "A significant companion of the rule of law is the",
+      "options": ["supremacy of the ordinary law", "fusion of legislative and executive functions", "enforcement of law by the legislature", "adoption of one party system"],
+      "answer": "supremacy of the ordinary law"
     },
     {
       "number": 49,
-      "question": "What is a humanoid?",
-      "options": [
-        "Humanlike robots.",
-        "Robots that look like cars.",
-        "Robots that can carry heavy loads.",
-        "Robots that can fly."
-      ],
-      "answer": "Humanlike robots."
+      "question": "The most suitable form of democracy for a small village or community is",
+      "options": ["direct democracy", "indirect democracy", "communal democracy", "constitutional democracy"],
+      "answer": "direct democracy"
     },
     {
       "number": 50,
-      "question": "Who can learn coding and programming?",
-      "options": [
-        "Graduates ONLY.",
-        "Anybody.",
-        "Secondary school students ONLY.",
-        "Parents ONLY."
-      ],
-      "answer": "Anybody."
+      "question": "The international court of justice is located in",
+      "options": ["Netherlands", "Britain", "Nigeria", "Norway"],
+      "answer": "Netherlands"
     }
   ]
-
