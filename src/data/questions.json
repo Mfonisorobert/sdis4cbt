@@ -1,302 +1,302 @@
-[
+  [
     {
       "number": 1,
-      "question": "Which of the following is not a skill for practical living?",
-      "options": ["Life coping skill", "Manipulative skill", "Artistic skill", "Cyber crime skill"],
-      "answer": "Cyber crime skill"
+      "question": "Notre maison est en",
+      "options": ["banco", "papier colère", "fer", "colère", "velours"],
+      "answer": "banco"
     },
     {
       "number": 2,
-      "question": "When the national flag is flown half mast, it is a sign of national",
-      "options": ["centenary", "children’s day", "independence", "mourning"],
-      "answer": "mourning"
+      "question": "il y a ____dans la maison",
+      "options": ["bureau", "magasins", "pièces", "rues", "villages"],
+      "answer": "pièces"
     },
     {
       "number": 3,
-      "question": "In order to guarantee transparency and accountability in governance, leaders should ensure that",
-      "options": ["constitutionalism thrives", "the judiciary is supervised", "immunity covers government officials", "trials should be held in secret"],
-      "answer": "constitutionalism thrives"
+      "question": "J'adore ______du temps dans le salon",
+      "options": ["dépenser", "gagner", "deposser", "gaspiller", "passer"],
+      "answer": "passer"
     },
     {
       "number": 4,
-      "question": "The upper legislative chamber of the National Assembly of Nigeria is also known as the",
-      "options": ["honourables", "house of commons", "house of lords", "senate"],
-      "answer": "senate"
+      "question": "il y a une ____télévision",
+      "options": ["grande", "grand", "grands", "grandes", "gros."],
+      "answer": "grande"
     },
     {
       "number": 5,
-      "question": "The structure of the Nigerian legislature is ______ in nature.",
-      "options": ["confederal", "federal", "unicameral", "bicameral"],
-      "answer": "bicameral"
+      "question": "Nous _____de sale à manger",
+      "options": ["n'allons pas", "n'avons pas", "ne mangeons pas", "ne vieu pas", "Ne vont pas"],
+      "answer": "n'avons pas"
     },
     {
       "number": 6,
-      "question": "The political party’s programme is known as its",
-      "options": ["constitution", "document", "functions", "manifesto"],
-      "answer": "manifesto"
+      "question": "Il y a un joli jardin derrière la maison où il y a ____ des fleurs et manguiers.",
+      "options": ["un seau", "un WC", "une cuisinière", "une douche", "une pelouse"],
+      "answer": "une pelouse"
     },
     {
       "number": 7,
-      "question": "In 2022, Nigeria celebrated her _____ independence anniversary.",
-      "options": ["54th", "52nd", "62nd", "53rd"],
-      "answer": "52nd"
+      "question": "J'aime beaucoup ces ____quand elles sont mûres.",
+      "options": ["abres", "feuilles", "racines", "légumes", "mangues"],
+      "answer": "mangues"
     },
     {
       "number": 8,
-      "question": "Which of these is not a system of government?",
-      "options": ["Monarchy", "Oligarchy", "Plutocracy", "Anarchy"],
-      "answer": "Anarchy"
+      "question": "J'aime aussi jouer au tennis avec ____copins.",
+      "options": ["ma", "mes", "mon", "son", "sa"],
+      "answer": "mes"
     },
     {
       "number": 9,
-      "question": "Cooperation between one country and another can be described as",
-      "options": ["international", "multinational", "unilateral", "bilateral"],
-      "answer": "bilateral"
+      "question": "Nous jouons dans le/la _____par j'adore le sport.",
+      "options": ["picine", "plage", "jardin", "musée", "zoo"],
+      "answer": "jardin"
     },
     {
       "number": 10,
-      "question": "One of the aims of citizenship education is to produce students with",
-      "options": ["creative skill", "high sense of entrepreneurial", "manipulative skill", "high sense of patriotism"],
-      "answer": "high sense of patriotism"
+      "question": "De plus, il y a ____petit garage",
+      "options": ["de la", "des", "la", "un", "une"],
+      "answer": "un"
     },
     {
       "number": 11,
-      "question": "The National Youth Service Corps scheme was established in Nigeria in",
-      "options": ["1970", "1971", "1975", "1973"],
-      "answer": "1973"
+      "question": "Le juge ____ (parler) à l'accusé.",
+      "options": ["parle", "parlent", "parles", "parlez", "aimons"],
+      "answer": "parle"
     },
     {
       "number": 12,
-      "question": "Franchise means the right to",
-      "options": ["contest for political post", "join association", "live in Nigeria", "vote and be voted for"],
-      "answer": "vote and be voted for"
+      "question": "Ajourd'hui tu (aimer) ton chat.",
+      "options": ["aime", "aiment", "aimes", "aimez", "aimons"],
+      "answer": "aimes"
     },
     {
       "number": 13,
-      "question": "How many members constitute the lower legislature?",
-      "options": ["300", "302", "360", "342"],
-      "answer": "360"
+      "question": "Les hommes (être) bavards",
+      "options": ["es", "est", "sommes", "êtes", "sont"],
+      "answer": "sont"
     },
     {
       "number": 14,
-      "question": "The formation and implementation of policies are the major duties of the",
-      "options": ["judiciary", "legislature", "executive", "police"],
-      "answer": "executive"
+      "question": "Je (prendre) le cahier de Koffi pour faire mes devoirs.",
+      "options": ["prend", "prends", "prenez", "prennent", "prenons"],
+      "answer": "prends"
     },
     {
       "number": 15,
-      "question": "If Nigeria is now hundred years since amalgamation which means she has celebrated ______ anniversary.",
-      "options": ["amalgamation", "golden jubilee", "centenary", "silver jubilee"],
-      "answer": "centenary"
+      "question": "J' (avoir) une belle chambre.",
+      "options": ["ai", "as", "avez", "avons", "ont"],
+      "answer": "ai"
     },
     {
       "number": 16,
-      "question": "The headquarters of ECOWAS is located in",
-      "options": ["Freetown", "Accra", "Abuja", "Togo"],
-      "answer": "Abuja"
+      "question": "Strike out the odd option (l'impair)",
+      "options": ["La cuisine", "La douche", "la toilette", "Le marché", "Le salon"],
+      "answer": "La douche"
     },
     {
       "number": 17,
-      "question": "Citizens can be deprived of their rights during",
-      "options": ["democratic regime", "political campaign", "emergency rule", "political campaign"],
-      "answer": "emergency rule"
+      "question": "Strike out the odd option (l'impair)",
+      "options": ["L'abre", "L'école", "L'hôpital", "La poste", "Le marché"],
+      "answer": "L'abre"
     },
     {
       "number": 18,
-      "question": "Red–tapism is one of the shortcomings of",
-      "options": ["private enterprise", "pressure groups", "civil service", "non–governmental organization"],
-      "answer": "civil service"
+      "question": "Strike out the odd option (l'impair)",
+      "options": ["L'avion", "la pirogue", "le bateau", "le garage", "le train"],
+      "answer": "le garage"
     },
     {
       "number": 19,
-      "question": "A society that is free from HIV/AIDS infected persons will likely experience",
-      "options": ["increase in level of power", "loss of manpower", "increase in level of productivity", "high death rate"],
-      "answer": "increase in level of productivity"
+      "question": "Strike out the odd option (l'impair)",
+      "options": ["Avril", "Décembre", "Juillet", "Juin", "Mardi"],
+      "answer": "Mardi"
     },
     {
       "number": 20,
-      "question": "The sole aim of youth empowerment is to",
-      "options": ["encourage students to take on a vocation job", "learn to earn money and also how to manage it", "give youths financial independence and self- reliance", "learn how to behave in a work related environment"],
-      "answer": "give youths financial independence and self- reliance"
+      "question": "Strike out the odd option (l'impair)",
+      "options": ["Cahier", "Livre", "Règle", "Stylo", "Tasse"],
+      "answer": "Tasse"
     },
     {
       "number": 21,
-      "question": "National consciousness, unity and integrity are promoted through all the following ways except",
-      "options": ["obedience to rules and regulations", "National Youth Service Corps", "Teaching of Civic Education in schools", "Compromise of the rule of law"],
-      "answer": "Compromise of the rule of law"
+      "question": "Elle va _____l'hôpital.",
+      "options": ["à", "à le", "au", "de l'", "en"],
+      "answer": "à"
     },
     {
       "number": 22,
-      "question": "A ban on public lectures and symposiums is against the right to freedom of",
-      "options": ["Movement and right to speech", "Worship and fair hearing", "Electronic and print media", "Peaceful assembly and association"],
-      "answer": "Peaceful assembly and association"
+      "question": "Ouvrez _____ porte s'il vous plaît.",
+      "options": ["des", "l'", "la", "le", "les"],
+      "answer": "la"
     },
     {
       "number": 23,
-      "question": "Who among the following could be described as the founding father of Nigeria nationalism?",
-      "options": ["Nnamdi Azikiwe", "Ahmadu Bello", "Obafemi Awolowo", "Herbert Macaulay"],
-      "answer": "Herbert Macaulay"
+      "question": "Taiwo achète ____ pain à la boulangerie.",
+      "options": ["de", "de l'", "de la", "des", "du"],
+      "answer": "du"
     },
     {
       "number": 24,
-      "question": "The right to vote and be voted for is classified under _____ rights.",
-      "options": ["economic", "legal", "religious", "political"],
-      "answer": "political"
+      "question": "Ma fille a des yeux bleus et ____cheveux blonds.",
+      "options": ["de", "des", "d'", "du", "les"],
+      "answer": "des"
     },
     {
       "number": 25,
-      "question": "The laws made by the third tier of government in Nigeria are referred to as",
-      "options": ["constitutional laws", "decrees", "policies", "bye–laws"],
-      "answer": "bye–laws"
+      "question": "Il sort ____piscine",
+      "options": ["à", "au", "avec", "de la", "en"],
+      "answer": "de la"
     },
     {
       "number": 26,
-      "question": "Which of the following is regarded as the symbol of the legislature?",
-      "options": ["National flag", "Oath taking", "The building", "The mace"],
-      "answer": "The mace"
+      "question": "Désires tu une tasse ___café?",
+      "options": ["de", "de la", "des", "du", "la"],
+      "answer": "de"
     },
     {
       "number": 27,
-      "question": "One of the major problems facing local government administration in Nigeria is",
-      "options": ["insufficient councilors", "lack of control by the central government", "leadership", "lack of funds"],
-      "answer": "lack of funds"
+      "question": "J'aime le vin, je bois ___vin.",
+      "options": ["de", "de la", "des", "du", "la"],
+      "answer": "du"
     },
     {
       "number": 28,
-      "question": "In a democracy, official opposition is allowed to",
-      "options": ["bring down the government", "pave way for military intervention", "encourage crisis in a state", "criticize constructively"],
-      "answer": "criticize constructively"
+      "question": "L'entrée de _____hôtel est bien éclairée.",
+      "options": ["de", "de l'", "de la", "du", "l'"],
+      "answer": "de l'"
     },
     {
       "number": 29,
-      "question": "The 1999 constitution could be described as rigid mainly because",
-      "options": ["its amendment requires two-third majority votes of the National Assembly", "its implementation requires the regular services of experienced constitutional lawyers", "adherence to its provision is very difficult", "it requires the presidential proclamation and judicial decision"],
-      "answer": "its amendment requires two-third majority votes of the National Assembly"
+      "question": "Il a des bottes _____pieds.",
+      "options": ["à", "à les", "au", "aux", "les"],
+      "answer": "aux"
     },
     {
       "number": 30,
-      "question": "Lack of interest in politics by citizens in the country is referred to as political",
-      "options": ["apathy", "ignorance", "participation", "socialization"],
-      "answer": "apathy"
+      "question": "L'ingénieur est ____étranger.",
+      "options": ["à", "à l’", "à la", "au", "en"],
+      "answer": "à l’"
     },
     {
       "number": 31,
-      "question": "Human rights are the cornerstone of",
-      "options": ["democracy", "plutocracy", "aristocracy", "theocracy"],
-      "answer": "democracy"
+      "question": "Est-ce que c'est le pantalon de votre père? Oui, c'est le/la/les",
+      "options": ["mienne", "sien", "tienne", "tiens", "votre"],
+      "answer": "sien"
     },
     {
       "number": 32,
-      "question": "The present constitution of Nigeria came into operation in",
-      "options": ["1995", "1997", "1999", "1996"],
-      "answer": "1999"
+      "question": "Hamish, regarde_____ belle image!",
+      "options": ["celle", "ces", "cet", "cette", "ceux"],
+      "answer": "cette"
     },
     {
       "number": 33,
-      "question": "In democracy, power belongs to",
-      "options": ["executive", "government", "electorates", "legislature"],
-      "answer": "electorates"
+      "question": "Ces voitures appartiennent à Bola et moi. Ce sont",
+      "options": ["les miennes", "les nôtres", "les siennes", "les tiens", "les vôtres"],
+      "answer": "les nôtres"
     },
     {
       "number": 34,
-      "question": "In democracy, political contest can be restricted on the basis of",
-      "options": ["class", "race", "age", "religion"],
-      "answer": "age"
+      "question": "Les enfants sont vacances.",
+      "options": ["dans", "de", "en", "par", "sur"],
+      "answer": "en"
     },
     {
       "number": 35,
-      "question": "An election conducted to determine a winner after a general election is known as _____ election.",
-      "options": ["bye", "secondary", "run-off", "primary"],
-      "answer": "run-off"
+      "question": "Je vais____librairie.",
+      "options": ["à", "à la", "à l'", "à le", "au"],
+      "answer": "à la"
     },
     {
       "number": 36,
-      "question": "What is the full meaning of CFR?",
-      "options": ["Campaign for Re-orientation", "Chief-in-Council of the Federal Republic", "Commander of the Federal Republic", "Committee on Federal Revenue"],
-      "answer": "Commander of the Federal Republic"
+      "question": "Mama Tina et moi ____travaillons au même bureau.",
+      "options": ["elle", "ils", "je", "nous", "vous"],
+      "answer": "nous"
     },
     {
       "number": 37,
-      "question": "The National Assembly, Presidency and court which are inter-related and interdependent in our democracy constitute the",
-      "options": ["tiers of government", "forms of government", "arms of government", "types of democracy"],
-      "answer": "arms of government"
+      "question": "Bonjour à ______les jeunes filles du quartier.",
+      "options": ["tous", "tout", "toute", "toutes", "tu"],
+      "answer": "toutes"
     },
     {
       "number": 38,
-      "question": "Democracy can promote national development if there is",
-      "options": ["promotion of culture", "immunity for leaders", "good governance", "registration of parties"],
-      "answer": "good governance"
+      "question": "Je vous conseille_____dire la vérité.",
+      "options": ["dans", "de", "des", "en", "pendant"],
+      "answer": "de"
     },
     {
       "number": 39,
-      "question": "One major factor that hinders women from participating actively in politics is",
-      "options": ["their educational background", "lack of fund and financial power", "societal discrimination and belief system", "their religious background"],
-      "answer": "societal discrimination and belief system"
+      "question": "Que voulez?",
+      "options": ["eux", "lui", "moi", "nous", "E vous"],
+      "answer": "E vous"
     },
     {
       "number": 40,
-      "question": "Which of the following is a negative way of engaging in popular participation in a state?",
-      "options": ["Engaging in rallies and demonstrations", "Joining political party of your choice", "Taking part in general elections", "Snatching of ballot box during elections"],
-      "answer": "Snatching of ballot box during elections"
+      "question": "J'ai _____droit de voter.",
+      "options": ["des", "la", "e", "les", "une"],
+      "answer": "e"
     },
     {
       "number": 41,
-      "question": "A non-governmental organization that allows independent initiative of citizens is known as",
-      "options": ["civil society", "pressure group", "religious group", "professional society"],
-      "answer": "pressure group"
+      "question": "C’est ____heure de manger",
+      "options": ["l’", "la", "le", "les", "un"],
+      "answer": "l’"
     },
     {
       "number": 42,
-      "question": "The headquarters of United Nations is located in",
-      "options": ["Abuja", "New York", "England", "Hague"],
-      "answer": "New York"
+      "question": "Le vent est très fort _____ il y a une tempête",
+      "options": ["où", "quand", "que", "quel", "qui"],
+      "answer": "quand"
     },
     {
       "number": 43,
-      "question": "The public service structure of Nigeria is an offshoot of",
-      "options": ["America", "British", "Canada", "India"],
-      "answer": "British"
+      "question": "Maman va _____champs très tôt le matin",
+      "options": ["a", "à", "à la", "au", "aux"],
+      "answer": "au"
     },
     {
       "number": 44,
-      "question": "In the civil service, cleaners, drivers and security belong to class",
-      "options": ["administrative", "messengerial", "clerical", "professional"],
-      "answer": "messengerial"
+      "question": "J’ai écrit à ___parents. Mon cousin n’a pas écrit aux siens.",
+      "options": ["mon", "mes", "ses", "son", "tes"],
+      "answer": "mes"
     },
     {
       "number": 45,
-      "question": "In the constitution, the areas where both the federal and state governments exercise joint authority are on the",
-      "options": ["residual list", "concurrent list", "exclusive list", "reserved list"],
-      "answer": "concurrent list"
+      "question": "Le musicien joue ___violon",
+      "options": ["au", "dans", "du", "sur", "de"],
+      "answer": "au"
     },
     {
       "number": 46,
-      "question": "The origin of democracy is traced to the",
-      "options": ["Greeks", "Egyptians", "Romans", "British"],
-      "answer": "Greeks"
+      "question": "Les étoiles se trouvent dans ____",
+      "options": ["la lune", "mer", "ciel", "terre", "ville"],
+      "answer": "ciel"
     },
     {
       "number": 47,
-      "question": "An election conducted to fill a vacant seat in the legislative chamber is called _____ election.",
-      "options": ["bye", "general", "plebiscite", "primary"],
-      "answer": "bye"
+      "question": "La France est un/une ______",
+      "options": ["île", "mer", "pays", "village", "ville"],
+      "answer": "pays"
     },
     {
       "number": 48,
-      "question": "A significant companion of the rule of law is the",
-      "options": ["supremacy of the ordinary law", "fusion of legislative and executive functions", "enforcement of law by the legislature", "adoption of one party system"],
-      "answer": "supremacy of the ordinary law"
+      "question": "Vous ____besoin de l’eau propre.",
+      "options": ["avez", "buvez", "êtes", "pouvez", "voulez"],
+      "answer": "avez"
     },
     {
       "number": 49,
-      "question": "The most suitable form of democracy for a small village or community is",
-      "options": ["direct democracy", "indirect democracy", "communal democracy", "constitutional democracy"],
-      "answer": "direct democracy"
+      "question": "Kanu Nwankwo joue _____football.",
+      "options": ["à la", "au", "de", "du", "le"],
+      "answer": "au"
     },
     {
       "number": 50,
-      "question": "The international court of justice is located in",
-      "options": ["Netherlands", "Britain", "Nigeria", "Norway"],
-      "answer": "Netherlands"
+      "question": "Maman ____la cuisine",
+      "options": ["fait", "Faire", "faisez", "font", "faites"],
+      "answer": "fait"
     }
   ]
