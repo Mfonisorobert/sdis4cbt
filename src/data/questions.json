@@ -141,7 +141,7 @@
       "number": 24,
       "question": "Ma fille a des yeux bleus et ____cheveux blonds.",
       "options": ["de", "des", "d'", "du", "les"],
-      "answer": "des"
+      "answer": "les"
     },
     {
       "number": 25,
@@ -165,7 +165,7 @@
       "number": 28,
       "question": "L'entrée de _____hôtel est bien éclairée.",
       "options": ["de", "de l'", "de la", "du", "l'"],
-      "answer": "de l'"
+      "answer": "l'"
     },
     {
       "number": 29,
@@ -243,7 +243,7 @@
       "number": 41,
       "question": "C’est ____heure de manger",
       "options": ["l’", "la", "le", "les", "un"],
-      "answer": "l’"
+      "answer": "le’"
     },
     {
       "number": 42,
