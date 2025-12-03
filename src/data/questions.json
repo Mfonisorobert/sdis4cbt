@@ -1,302 +1,52 @@
-  [
-    {
-      "number": 1,
-      "question": "Notre maison est en",
-      "options": ["banco", "papier colère", "fer", "colère", "velours"],
-      "answer": "banco"
-    },
-    {
-      "number": 2,
-      "question": "il y a ____dans la maison",
-      "options": ["bureau", "magasins", "pièces", "rues", "villages"],
-      "answer": "pièces"
-    },
-    {
-      "number": 3,
-      "question": "J'adore ______du temps dans le salon",
-      "options": ["dépenser", "gagner", "deposser", "gaspiller", "passer"],
-      "answer": "passer"
-    },
-    {
-      "number": 4,
-      "question": "il y a une ____télévision",
-      "options": ["grande", "grand", "grands", "grandes", "gros."],
-      "answer": "grande"
-    },
-    {
-      "number": 5,
-      "question": "Nous _____de sale à manger",
-      "options": ["n'allons pas", "n'avons pas", "ne mangeons pas", "ne vieu pas", "Ne vont pas"],
-      "answer": "n'avons pas"
-    },
-    {
-      "number": 6,
-      "question": "Il y a un joli jardin derrière la maison où il y a ____ des fleurs et manguiers.",
-      "options": ["un seau", "un WC", "une cuisinière", "une douche", "une pelouse"],
-      "answer": "une pelouse"
-    },
-    {
-      "number": 7,
-      "question": "J'aime beaucoup ces ____quand elles sont mûres.",
-      "options": ["abres", "feuilles", "racines", "légumes", "mangues"],
-      "answer": "mangues"
-    },
-    {
-      "number": 8,
-      "question": "J'aime aussi jouer au tennis avec ____copins.",
-      "options": ["ma", "mes", "mon", "son", "sa"],
-      "answer": "mes"
-    },
-    {
-      "number": 9,
-      "question": "Nous jouons dans le/la _____par j'adore le sport.",
-      "options": ["picine", "plage", "jardin", "musée", "zoo"],
-      "answer": "jardin"
-    },
-    {
-      "number": 10,
-      "question": "De plus, il y a ____petit garage",
-      "options": ["de la", "des", "la", "un", "une"],
-      "answer": "un"
-    },
-    {
-      "number": 11,
-      "question": "Le juge ____ (parler) à l'accusé.",
-      "options": ["parle", "parlent", "parles", "parlez", "aimons"],
-      "answer": "parle"
-    },
-    {
-      "number": 12,
-      "question": "Ajourd'hui tu (aimer) ton chat.",
-      "options": ["aime", "aiment", "aimes", "aimez", "aimons"],
-      "answer": "aimes"
-    },
-    {
-      "number": 13,
-      "question": "Les hommes (être) bavards",
-      "options": ["es", "est", "sommes", "êtes", "sont"],
-      "answer": "sont"
-    },
-    {
-      "number": 14,
-      "question": "Je (prendre) le cahier de Koffi pour faire mes devoirs.",
-      "options": ["prend", "prends", "prenez", "prennent", "prenons"],
-      "answer": "prends"
-    },
-    {
-      "number": 15,
-      "question": "J' (avoir) une belle chambre.",
-      "options": ["ai", "as", "avez", "avons", "ont"],
-      "answer": "ai"
-    },
-    {
-      "number": 16,
-      "question": "Strike out the odd option (l'impair)",
-      "options": ["La cuisine", "La douche", "la toilette", "Le marché", "Le salon"],
-      "answer": "La douche"
-    },
-    {
-      "number": 17,
-      "question": "Strike out the odd option (l'impair)",
-      "options": ["L'abre", "L'école", "L'hôpital", "La poste", "Le marché"],
-      "answer": "L'abre"
-    },
-    {
-      "number": 18,
-      "question": "Strike out the odd option (l'impair)",
-      "options": ["L'avion", "la pirogue", "le bateau", "le garage", "le train"],
-      "answer": "le garage"
-    },
-    {
-      "number": 19,
-      "question": "Strike out the odd option (l'impair)",
-      "options": ["Avril", "Décembre", "Juillet", "Juin", "Mardi"],
-      "answer": "Mardi"
-    },
-    {
-      "number": 20,
-      "question": "Strike out the odd option (l'impair)",
-      "options": ["Cahier", "Livre", "Règle", "Stylo", "Tasse"],
-      "answer": "Tasse"
-    },
-    {
-      "number": 21,
-      "question": "Elle va _____l'hôpital.",
-      "options": ["à", "à le", "au", "de l'", "en"],
-      "answer": "à"
-    },
-    {
-      "number": 22,
-      "question": "Ouvrez _____ porte s'il vous plaît.",
-      "options": ["des", "l'", "la", "le", "les"],
-      "answer": "la"
-    },
-    {
-      "number": 23,
-      "question": "Taiwo achète ____ pain à la boulangerie.",
-      "options": ["de", "de l'", "de la", "des", "du"],
-      "answer": "du"
-    },
-    {
-      "number": 24,
-      "question": "Ma fille a des yeux bleus et ____cheveux blonds.",
-      "options": ["de", "des", "d'", "du", "les"],
-      "answer": "les"
-    },
-    {
-      "number": 25,
-      "question": "Il sort ____piscine",
-      "options": ["à", "au", "avec", "de la", "en"],
-      "answer": "de la"
-    },
-    {
-      "number": 26,
-      "question": "Désires tu une tasse ___café?",
-      "options": ["de", "de la", "des", "du", "la"],
-      "answer": "de"
-    },
-    {
-      "number": 27,
-      "question": "J'aime le vin, je bois ___vin.",
-      "options": ["de", "de la", "des", "du", "la"],
-      "answer": "du"
-    },
-    {
-      "number": 28,
-      "question": "L'entrée de _____hôtel est bien éclairée.",
-      "options": ["de", "de l'", "de la", "du", "l'"],
-      "answer": "l'"
-    },
-    {
-      "number": 29,
-      "question": "Il a des bottes _____pieds.",
-      "options": ["à", "à les", "au", "aux", "les"],
-      "answer": "aux"
-    },
-    {
-      "number": 30,
-      "question": "L'ingénieur est ____étranger.",
-      "options": ["à", "à l’", "à la", "au", "en"],
-      "answer": "à l’"
-    },
-    {
-      "number": 31,
-      "question": "Est-ce que c'est le pantalon de votre père? Oui, c'est le/la/les",
-      "options": ["mienne", "sien", "tienne", "tiens", "votre"],
-      "answer": "sien"
-    },
-    {
-      "number": 32,
-      "question": "Hamish, regarde_____ belle image!",
-      "options": ["celle", "ces", "cet", "cette", "ceux"],
-      "answer": "cette"
-    },
-    {
-      "number": 33,
-      "question": "Ces voitures appartiennent à Bola et moi. Ce sont",
-      "options": ["les miennes", "les nôtres", "les siennes", "les tiens", "les vôtres"],
-      "answer": "les nôtres"
-    },
-    {
-      "number": 34,
-      "question": "Les enfants sont vacances.",
-      "options": ["dans", "de", "en", "par", "sur"],
-      "answer": "en"
-    },
-    {
-      "number": 35,
-      "question": "Je vais____librairie.",
-      "options": ["à", "à la", "à l'", "à le", "au"],
-      "answer": "à la"
-    },
-    {
-      "number": 36,
-      "question": "Mama Tina et moi ____travaillons au même bureau.",
-      "options": ["elle", "ils", "je", "nous", "vous"],
-      "answer": "nous"
-    },
-    {
-      "number": 37,
-      "question": "Bonjour à ______les jeunes filles du quartier.",
-      "options": ["tous", "tout", "toute", "toutes", "tu"],
-      "answer": "toutes"
-    },
-    {
-      "number": 38,
-      "question": "Je vous conseille_____dire la vérité.",
-      "options": ["dans", "de", "des", "en", "pendant"],
-      "answer": "de"
-    },
-    {
-      "number": 39,
-      "question": "Que voulez?",
-      "options": ["eux", "lui", "moi", "nous", "E vous"],
-      "answer": "E vous"
-    },
-    {
-      "number": 40,
-      "question": "J'ai _____droit de voter.",
-      "options": ["des", "la", "e", "les", "une"],
-      "answer": "e"
-    },
-    {
-      "number": 41,
-      "question": "C’est ____heure de manger",
-      "options": ["l’", "la", "le", "les", "un"],
-      "answer": "le’"
-    },
-    {
-      "number": 42,
-      "question": "Le vent est très fort _____ il y a une tempête",
-      "options": ["où", "quand", "que", "quel", "qui"],
-      "answer": "quand"
-    },
-    {
-      "number": 43,
-      "question": "Maman va _____champs très tôt le matin",
-      "options": ["a", "à", "à la", "au", "aux"],
-      "answer": "au"
-    },
-    {
-      "number": 44,
-      "question": "J’ai écrit à ___parents. Mon cousin n’a pas écrit aux siens.",
-      "options": ["mon", "mes", "ses", "son", "tes"],
-      "answer": "mes"
-    },
-    {
-      "number": 45,
-      "question": "Le musicien joue ___violon",
-      "options": ["au", "dans", "du", "sur", "de"],
-      "answer": "au"
-    },
-    {
-      "number": 46,
-      "question": "Les étoiles se trouvent dans ____",
-      "options": ["la lune", "mer", "ciel", "terre", "ville"],
-      "answer": "ciel"
-    },
-    {
-      "number": 47,
-      "question": "La France est un/une ______",
-      "options": ["île", "mer", "pays", "village", "ville"],
-      "answer": "pays"
-    },
-    {
-      "number": 48,
-      "question": "Vous ____besoin de l’eau propre.",
-      "options": ["avez", "buvez", "êtes", "pouvez", "voulez"],
-      "answer": "avez"
-    },
-    {
-      "number": 49,
-      "question": "Kanu Nwankwo joue _____football.",
-      "options": ["à la", "au", "de", "du", "le"],
-      "answer": "au"
-    },
-    {
-      "number": 50,
-      "question": "Maman ____la cuisine",
-      "options": ["fait", "Faire", "faisez", "font", "faites"],
-      "answer": "fait"
-    }
+ [
+    {"number":1,"question":"Edemede leta nke na-ebu adreesi abụọ bụ","options":["keonye","ke anamachọihe","Leta nkọwa","Leta ndiisi"],"answer":"keonye"},
+    {"number":2,"question":"Ndị a na-ejikari atụ mgbere bụ","options":["ndị nne na nna","ụmụaka, ụmụokorobia na ụmụagboghọ","ndị na-azụ ahịa","ndi nkuzi"],"answer":"ụmụaka, ụmụokorobia na ụmụagboghọ"},
+    {"number":3,"question":"Otu n'ime ndị a bụ oghọ m na-adakwasi ụmụagbọ-ghọ e jiri tụọ mgbere bụ","options":["Itụrụ ime ọkwa","irijụ afọ","imalite azụmahịa","Iluta di"],"answer":"Itụrụ ime ọkwa"},
+    {"number":4,"question":"Leta keonye na-ebu adreesi________","options":["atọ","abụọ","otu","ise"],"answer":"otu"},
+    {"number":5,"question":"______bụ agụmagụ ọdịnaala nke na-akọkarị akụkọ a rọrọ arọ banyere ihe na-eme n'ala mmadu, ala mmụọ na ala ụmụanụmanụ","options":["akụkọ njem","akụkọ ifo","akụkọ agha","akụkọ egwu"],"answer":"akụkọ ifo"},
+    {"number":6,"question":"Oge e ji akọ akụkọ ifo na-abụkarị n'_______","options":["ụtụtụ","ehihie","mgbede","abali"],"answer":"abali"},
+    {"number":7,"question":"Onye na-akọ akụkọ ifo na-amalite akụkọ ya site n'iti_______","options":["Chakpii","Chai","Ewoo","Igbo kwenu"],"answer":"Chakpii"},
+    {"number":8,"question":"Ụmụaka nwere ikikere______","options":["nchekwa","izu ohi","ilu ogu","igbu mmadu"],"answer":"nchekwa"},
+    {"number":9,"question":"____bụ ajọ omume ụmụakwụkwọ na-eme oge a na-ele ule","options":["igwu egwu","mpụ ule","ichi ọchi","ịgba ọsọ"],"answer":"mpụ ule"},
+    {"number":10,"question":"Leta anamachọihe na-ebụ adreesị.","options":["ato","otu","ise","abụọ"],"answer":"abụọ"},
+    {"number":11,"question":"Edemede leta ga-enwerịrị ihe ndị a niile ewezuga otu","options":["ụbọchị edere ya","adreesị","mmechi","oge aga-agụ ya"],"answer":"oge aga-agụ ya"},
+    {"number":12,"question":"Leta na-ebu adreesị onye a na-edegara ya ka a na-akpọ leta","options":["anamachọihe","nkọwami","keọnye","nrurịtaụka"],"answer":"anamachọihe"},
+    {"number":13,"question":"____bụ ihe ndị ahụ dị iche iche ekwesịrị i mere ụmụaka.","options":["Oke na ọrụ","Ọrụbere ụmụaka","ikikere ụmụaka","nzọpụta ụmụaka"],"answer":"Ọrụbere ụmụaka"},
+    {"number":14,"question":"Ihe ndị a niile bụ ọghọm na-esị n'iji mmadụ atụ mgbere apụta ewepu otu","options":["ọnwụ ike","agaghị akwụkwọ","inwe nnukwu ego","ha na-ebute ọrịa"],"answer":"inwe nnukwu ego"},
+    {"number":15,"question":"Ịjị mmadụ atụ mgbere ọ bụ ihe ziri ezi?","options":["Ee","mba","amaghị m","Ee mba"],"answer":"mba"},
+    {"number":16,"question":"Ndi e jiri tụọ mgbere ahịa na-atụrụ ime ọkwa bụ","options":["Ụmụnwanyị ndị mara mma","Ụmụagbọghọ","Ụmụnwanyị nọ na di","Ụmụnwanyị ajadụ"],"answer":"Ụmụagbọghọ"},
+    {"number":17,"question":"_____bụ ụzọ maọbụ ụsoro ọbibi ndu  nke oha mmadụ nabatara","options":["Omenala","izu ohị","igbu mmadụ","igwọ ọgwụ"],"answer":"Omenala"},
+    {"number":18,"question":"Nlekọta pụrụ iche a na-elekọta nwanyị mụrụ nwa bụ ______","options":["izu ahịa","igbu ọzụ","ile ọmụgwọ","ile anya"],"answer":"ile ọmụgwọ"},
+    {"number":19,"question":"Ọmụgwọ bụ ihe dịrị______","options":["nna nwa","enyi nne","diokpara","nne nwa"],"answer":"nne nwa"},
+    {"number":20,"question":"Kedu onwa a na-amalite iri ji?","options":["ọnwa ise","ọnwa iri","ọnwa asatọ","ọnwa iri na abụọ"],"answer":"ọnwa asatọ"},
+    {"number":21,"question":"______bu mkpụrụosisi ọjị na ampụta","options":["ọjị","ube","ụdara","oroma"],"answer":"ọjị"},
+    {"number":22,"question":"_____bụ isi omenaala Igbo","options":["iri ji","ilụ nwanyi","ọji","ile ọmugwọ"],"answer":"ọji"},
+    {"number":23,"question":"Nke na-esoghị na ahịa anọ ndị Igbo bu_____","options":["Eke","Okoro","Nkwọ","Orie"],"answer":"Nkwọ"},
+    {"number":24,"question":"Ndị a bụcha ọghọn dị n'ime mpu ule ewepu","options":["ọ na-eme ka ụmụakwụkwọ gụo akwụkwọ nke oma","ọ na-ebutere ulọakwụkwọ aha ojọọ","ọ na-eme ka ụmụakwụkwọ ghara ịju akwụkwọ","ọ na-abụ ihe ngharịpu nyere nwataakwụkwọ"],"answer":"ọ na-eme ka ụmụakwụkwọ gụo akwụkwọ nke oma"},
+    {"number":25,"question":"Otu n'ime ndi a esoghi n'uzo e si eme mpụ ule:","options":["Igwa onye ọzọ ihe ka o dee","ilere ihe onye ọzọ na-ede","ide ihe n'onwe gị","ịkpọta onye ọzọ ka o deere gi"],"answer":"ide ihe n'onwe gị"},
+    {"number":26,"question":"Otu uru ọjị bara bụ na_____","options":["a na-eji ya ago ọfọ","a na-etinye ọjị na nri","ọ na-asa afọ","ha nilie bụ aziza ya"],"answer":"a na-eji ya ago ọfọ"},
+    {"number":27,"question":"Onye na-ele nwanyi mụrụ nwa ọmugwọ bụ____","options":["nna di ya","nne di ya","nne ya","nna ya"],"answer":"nne ya"},
+    {"number":28,"question":"Otu omenala nwụrụla kpamkpam bụ_____","options":["irị ji","ịwa ọjị","iru mgbede","ilu nwanyi"],"answer":"iru mgbede"},
+    {"number":29,"question":"Ihe a na-echere onye ọbia bụ","options":["ọgụ","akwụkwọ","ọgwụ","ọji"],"answer":"ọji"},
+    {"number":30,"question":"Oge a na-ele nwanyi ọmugwọ bụ mgbe","options":["ọ mụrụ nwa","mgbe ọ lurụ di","mgbe ọ gara ahịa","mgbe di ya nwụrụ"],"answer":"ọ mụrụ nwa"},
+    {"number":31,"question":"Iwebata ihe ndị ekwesịghi ekwesi n'ulọ ebe a na-ele ule bụ","options":["igafe n'ule","omenala","mpụ ule","akwụkwọ"],"answer":"mpụ ule"},
+    {"number":32,"question":"Ekele e ji anabata onye ọbịa bụ","options":["ilatala","ndo","nnoo","iputara"],"answer":"nnoo"},
+    {"number":33,"question":"Emume a na-eme n'ala Igbo iji kele Chineke maka ndu nakwa ezi ihe ubi onyere  ha bu _______","options":["ịwa ọjị","iri ji","ile ọmụgwọ","ile ọbịa"],"answer":"iri ji"},
+    {"number":34,"question":"N'oge gboo, chi a na-ekele ma na ahutakwa ya dika chi na-enye ji bu","options":["chukwu okike","Oluwo","ahiajoku","alah"],"answer":"ahiajoku"},
+    {"number":35,"question":"Ọji na-egosi ahịa ndị Igbo bụ ọji gbara","options":["atọ","anọ","ise","abụọ"],"answer":"anọ"},
+    {"number":36,"question":"Adreesi leta keonye na-ano na","options":["aka nri","aka ekpe","etiti","mmechi"],"answer":"aka nri"},
+    {"number":37,"question":"Ekele mmalite na-adi","options":["n'aka nri","aka ekpe","n'etiti","na mmechi"],"answer":"aka ekpe"},
+    {"number":38,"question":"Okwu mmechi na-ano na _______","options":["mgbada n'aka ekpe","mgbada n'etiti","mgbada n'aka nri","mgbada n'ime"],"answer":"mgbada n'aka nri"},
+    {"number":39,"question":"Edemede leta na-achọghị ọtụtụ okwu bụ","options":["leta nkiti","leta keonye","leta anamachoihe","leta nna na-edere nwa ya"],"answer":"leta nkiti"},
+    {"number":40,"question":"Nke na-esoghị na oke na ọrụ ụmụaka bụ","options":["inwe nsọpụrụ","igbu mmadu","idebe iwu","ịga ozi"],"answer":"igbu mmadu"},
+    {"number":41,"question":"Otu n'ime ndi a bụ uru ịnye ụmụaka orubere ha","options":["ọ na-eme ka ụmụaka tolite nke ọma","ọ na-eme ka ụmụaka na-alu ọgụ","ọ na-eme ka ha na-ezu ohi","ọ na-eme ka ha nupu isi n'iwu"],"answer":"ọ na-eme ka ụmụaka tolite nke ọma"},
+    {"number":42,"question":"Adreesị onye a na-edegara leta anamachọihe na-adị n' ________","options":["aka nri","etiti","aka ekpe","mmechi"],"answer":"aka ekpe"},
+    {"number":43,"question":"Leta anamachọihe na-enwe ihe ndị a ewepu_________","options":["Adreesị abụọ","Ekele mmalite","okwu njakịrị","nkenke isiokwu"],"answer":"okwu njakịrị"},
+    {"number":44,"question":"Otu n'ime ndị a esoghị na ọrụbere ụmụaka_________","options":["ikikere igbu mmadụ","ikikere ịdị ndụ","ikikere ịga akwụkwọ","ikikere nchekwa"],"answer":"ikikere igbu mmadụ"},
+    {"number":45,"question":"Ndị a bụcha njirimara leta keonye ewepụ ________","options":["otu adreesị","ekele mmalite","nkenke isiokwu","ekele mmechi"],"answer":"nkenke isiokwu"},
+    {"number":46,"question":"Ụmụaka bụ ụmụ a mụrụ ọhụrụ ruo mgbe ha zọnyere ukwu n'afọ—","options":["iri na asatọ","iri na asaa","iri asaa","iri abụọ na asaa"],"answer":"iri na asatọ"},
+    {"number":47,"question":"Leta keonye pụtara _______n'asụsụ Bekee","options":["Formal letter","informal letter","Comprehension","Essay writing"],"answer":"informal letter"},
+    {"number":48,"question":"E nwere ụdị edemede leta _______","options":["4","5","6","2"],"answer":"2"},
+    {"number":49,"question":"“Formal letter” bụ ______n'asụsụ Igbo","options":["Leta keonye","Leta anamaachọihe","Edemede nkọwa","Edemede mkparịtaụka"],"answer":"Leta anamaachọihe"},
+    {"number":50,"question":"A na-esite n'ihe ize ndụ______kpọrọ ụmụokorobia na ụmụagbọghọ bia e ji tụ mgbere ahịa gaa mba ọfịsị","options":["Ụgbọala","Ụgbọelu","Ụgbọmmiri","Ụgba tum tum"],"answer":"Ụgbọmmiri"}
   ]
